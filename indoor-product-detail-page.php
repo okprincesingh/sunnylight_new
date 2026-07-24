@@ -1141,10 +1141,16 @@ document.addEventListener('DOMContentLoaded', function() {
                     </button>
                 </div>
                 <div class="main-image-container">
+                    <button class="image-nav-btn prev-btn" id="prevImgBtn" onclick="prevImage(event)" aria-label="Previous Image">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
                     <div class="main-image-wrapper" id="imageWrapper" onclick="openLightbox()">
                         <img src="<?php echo $product['images'][0]; ?>" class="main-image" id="mainImage" 
                              alt="<?php echo $product['title']; ?>">
                     </div>
+                    <button class="image-nav-btn next-btn" id="nextImgBtn" onclick="nextImage(event)" aria-label="Next Image">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
                 </div>
             </div>
 
@@ -1316,6 +1322,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentImageIndex = 0;
 
     function changeImage(element, index) {
+        if (!element || index < 0 || index >= imageData.length) return;
         const direction = index > currentImageIndex ? 'right' : 'left';
         currentImageIndex = index;
 
@@ -1324,7 +1331,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const newImage = document.createElement('img');
         newImage.src = imageData[index].main;
-        newImage.alt = element.alt;
+        newImage.alt = element.alt || 'Product Image';
         newImage.className = `main-image ${direction === 'right' ? 'slide-right' : 'slide-left'}`;
 
         const wrapper = document.getElementById('imageWrapper');
@@ -1335,6 +1342,26 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             newImage.classList.remove('slide-left', 'slide-right');
         }, 500);
+    }
+
+    function prevImage(event) {
+        if (event) event.stopPropagation();
+        if (!imageData || imageData.length <= 1) return;
+        const prevIndex = (currentImageIndex - 1 + imageData.length) % imageData.length;
+        const thumbnails = document.querySelectorAll('.thumbnail');
+        if (thumbnails[prevIndex]) {
+            changeImage(thumbnails[prevIndex], prevIndex);
+        }
+    }
+
+    function nextImage(event) {
+        if (event) event.stopPropagation();
+        if (!imageData || imageData.length <= 1) return;
+        const nextIndex = (currentImageIndex + 1) % imageData.length;
+        const thumbnails = document.querySelectorAll('.thumbnail');
+        if (thumbnails[nextIndex]) {
+            changeImage(thumbnails[nextIndex], nextIndex);
+        }
     }
 
     function scrollThumbnails(amount) {
@@ -1349,6 +1376,28 @@ document.addEventListener('DOMContentLoaded', function() {
         lightbox.style.display = 'flex';
         document.body.style.overflow = 'hidden';
     }
+
+    // Touch swipe support for mobile view
+    document.addEventListener("DOMContentLoaded", function() {
+        const imgContainer = document.querySelector('.main-image-container');
+        if (imgContainer) {
+            let touchStartX = 0;
+            let touchEndX = 0;
+            imgContainer.addEventListener('touchstart', function(e) {
+                touchStartX = e.changedTouches[0].screenX;
+            }, {passive: true});
+
+            imgContainer.addEventListener('touchend', function(e) {
+                touchEndX = e.changedTouches[0].screenX;
+                const swipeThreshold = 35;
+                if (touchEndX < touchStartX - swipeThreshold) {
+                    nextImage();
+                } else if (touchEndX > touchStartX + swipeThreshold) {
+                    prevImage();
+                }
+            }, {passive: true});
+        }
+    });
 </script>
 
 <!-- Form script -->

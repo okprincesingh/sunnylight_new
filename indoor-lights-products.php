@@ -1285,7 +1285,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-product-detail-page.php?id=64" class="product-card-link">
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
-                                        <img src="assets/img/Indoor-light-img/all/anti-d-2.jpg"
+                                        <img src="assets/img/Indoor-light-img/all/anti-d-1.jpg"
                                             alt="Economic Anti Glare Tunable Cob Spot Light" class="default-image">
                                         <img src="assets/img/Indoor-light-img/all/anti-d-3.jpg"
                                             alt="Economic Anti Glare Tunable Cob Spot Light USE" class="hover-image">
@@ -1301,7 +1301,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             <a href="indoor-product-detail-page.php?id=65" class="product-card-link">
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
-                                        <img src="assets/img/Indoor-light-img/all/anti-d-2.jpg"
+                                        <img src="assets/img/Indoor-light-img/all/anti-d-1.jpg"
                                             alt="Economic Anti Glare Tunable Cob Spot Light" class="default-image">
                                         <img src="assets/img/Indoor-light-img/all/anti-d-3.jpg"
                                             alt="Economic Anti Glare Tunable Cob Spot Light USE" class="hover-image">
