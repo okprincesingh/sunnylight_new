@@ -1,0 +1,8 @@
+Target canvas: 500x500 transparent PNG
+Processed images: 1
+Missing images: 0
+
+Processed:
+assets/img/zz-indoor/slmx4444_2.jpeg -> assets/img/indoor-card-resized/zz-indoor/slmx4444_2.png | original 736x1308
+
+Missing:

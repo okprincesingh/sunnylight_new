@@ -1,0 +1,177 @@
+  /* body { */
+      /* background: #f6f7fb; */
+      /* display: flex;
+      justify-content: center;
+      align-items: center; */
+      /* padding: 40px; */
+    /* } */
+
+    .ind-container {
+      display: flex;
+      /* max-width: 1100px; */
+      width: 100%;
+      /* background: #fff; */
+      border-radius: 12px;
+      overflow: hidden;
+      /* box-shadow: 0 4px 25px rgba(0,0,0,0.1); */
+    }
+
+    /* Left Image Section */
+    .left {
+  flex: 1;
+  min-width: 400px; /* ✅ Add this line */
+  max-width: 600px; /* ✅ Optional */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  /* border: 1px solid slategray; */
+}
+
+    /* Container */
+.left .swiper-product-detail {
+  width: 100%;
+  max-width: 400px;  /* ⬆️ Increased from 300px */
+  height: auto;
+  position: relative;
+  border: 1px solid slategray;
+}
+
+/* Slide images */
+.swiper-product-detail .swiper-slide img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  max-height: 400px;  /* ✅ Optional: limit height */
+}
+
+.swiper-product-detail .swiper-slide img {
+  transition: transform 0.3s ease;
+}
+.swiper-product-detail .swiper-slide img:hover {
+  transform: scale(1.05);
+}
+
+/* Navigation arrows only for this swiper */
+.swiper-product-detail .swiper-button-next,
+.swiper-product-detail .swiper-button-prev {
+  color: #0ea5a4;
+}
+
+
+    .left img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+
+    /* Right Table Section */
+    .right {
+      flex: 2;
+      padding: 15px 10px;
+    }
+
+    h2 {
+      margin-bottom: 15px;
+      color: #222;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid #ddd;
+    }
+
+    thead {
+      background: #0ea5a4;
+      color: white;
+      text-align: center;
+    }
+
+    th, td {
+      padding: 10px 8px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+      font-size: 14px;
+    }
+
+    tbody tr:hover {
+      background: #f2f9f9;
+    }
+
+    /* Responsive for smaller screens */
+    @media(max-width: 900px) {
+      .container {
+        flex-direction: column;
+      }
+      .left, .right {
+        width: 100%;
+      }
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+      thead {
+        display: none;
+      }
+      tr {
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 10px;
+      }
+      td {
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+        padding: 8px 10px;
+        border: none;
+      }
+      td::before {
+        content: attr(data-label);
+        font-weight: 600;
+        color: #0ea5a4;
+      }
+    }
+    
+    @media (max-width: 992px) {
+  .ind-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .right h2 {
+    order: -1; /* Ensures heading comes first */
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .left {
+    order: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .left .swiper-product-detail {
+    max-width: 320px;
+    margin: 10px auto;
+  }
+
+  .right {
+    order: 1;
+    width: 100%;
+  }
+
+  /* Make table scrollable horizontally */
+  .right table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  table th, table td {
+    font-size: 13px;
+    padding: 8px 6px;
+  }
+}

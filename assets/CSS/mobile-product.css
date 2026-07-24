@@ -1,0 +1,45 @@
+.side-panel-menu .dropdown .submenu {
+  display: none; /* hidden initially */
+  padding-left: 15px;
+  list-style: none;
+  /* border: 1px solid gray; */
+  border-radius: 5px;
+}
+
+.side-panel-menu .dropdown.active > a {
+  color: #34be3d; /* highlight active category */
+}
+
+.side-panel-menu .dropdown .submenu li {
+  padding: 5px 0;
+}
+
+.side-panel-menu .dropdown .submenu a {
+  font-size: 14px;
+  /* color: #757474; */
+}
+
+.side-panel-menu .dropdown-toggle i {
+  float: right;
+  transition: transform 0.3s ease;
+}
+
+.side-panel-menu .dropdown-toggle i.rotate {
+  transform: rotate(180deg);
+}
+
+
+.side-panel-menu .submenu {
+  display: none;          /* Initially hidden */
+  max-height: 300px;      /* Scrollable after certain height */
+  overflow-y: auto;
+  padding-left: 15px;
+}
+
+.side-panel-menu .has-submenu.active .submenu {
+  display: block;         /* Show when active */
+}
+
+.dropdown-toggle::after{
+    display: none !important;
+}

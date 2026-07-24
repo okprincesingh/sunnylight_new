@@ -1,0 +1,462 @@
+[
+ {
+  "id": 1,
+  "title": "Quick Sense Sensor - Wall Recessed",
+  "model": "SL WL PIR 220",
+  "description": "The SL WL PIR 220 Quick Sense Wall Recessed Sensor is a compact and efficient wall-mounted motion sensor designed for modern interiors. With its sleek square design and white finish, it blends seamlessly into walls while offering reliable motion detection. Operating within an AC 185V-240V input range, this wall sensor enhances energy efficiency and automation by activating lights or devices only when motion is detected. Its recessed design ensures a neat and unobtrusive installation, making it suitable for both residential and commercial applications.",
+  "details": {
+    "Product Details": "Designed for energy-saving and convenience, the Quick Sense Wall Recessed Sensor ensures lights and devices operate only when required. This automation not only improves efficiency but also enhances comfort and security within the space.",
+    "Premium Construction": "Finished in a clean white color with a modern square profile, the sensor is built to blend seamlessly into walls. The recessed mounting provides a smooth, professional appearance without protrusions.",
+    "Sensor Performance": "Powered by AC 185V-240V, the sensor delivers consistent motion detection, ensuring responsive performance in controlling connected devices. With an IP20 rating, it is suitable for indoor environments such as homes, offices, and commercial interiors.",
+    "Easy Installation": "Compact with dimensions of 85 × 75MM, the sensor is easy to install in standard wall spaces. Its recessed design makes it ideal for flush mounting in modern architecture.",
+    "Versatile Application": "Perfect for residential hallways, living rooms, staircases, offices, and commercial spaces, the Quick Sense Wall Recessed Sensor enhances safety, convenience, and energy savings."
+  },
+  "specifications": {
+    "Model Number": "SL WL PIR 220",
+    "Shape": "Square",
+    "Body Color": "White",
+    "Input": "AC 185V-240V",
+    "Type": "Wall Sensor",
+    "Size": "85 × 75MM",
+    "Rating": "IP20",
+    "Warranty": "1 Year"
+  },
+  "images": [
+    "assets/img/sensor/sns-3.jpg",
+    "assets/img/sensor/sns-6.jpg",
+    "assets/img/sensor/sns-1.jpg",
+    "assets/img/sensor/sns-8.jpg"
+  ]
+}, 
+{
+  "id": 2,
+  "title": "Quick Sense Sensor - Ceiling Recessed",
+  "model": "SL MIR 220",
+  "description": "The SL MIR 220 Quick Sense Ceiling Recessed Sensor is a reliable motion detection solution designed for modern indoor environments. With its round recessed design and clean white finish, it integrates seamlessly into ceilings, offering efficient motion sensing while maintaining a minimalist look. Operating on AC 185V-240V, this sensor is ideal for automating lighting systems, improving energy savings, and enhancing safety across residential and commercial interiors.",
+  "details": {
+    "Product Details": "The Quick Sense Ceiling Recessed Sensor ensures that lighting systems operate only when motion is detected, optimizing energy consumption and providing hands-free convenience. Its discreet round shape blends naturally into ceiling spaces.",
+    "Premium Construction": "Crafted in a sleek white finish, this sensor provides a neat and modern appearance. The recessed mounting design allows for an unobtrusive installation that complements a wide range of interiors.",
+    "Sensor Performance": "With an input range of AC 185V-240V, the SL MIR 220 delivers consistent and accurate motion sensing. Its IP20 rating makes it suitable for protected indoor applications, ensuring safe and efficient operation.",
+    "Easy Installation": "Measuring 85 × 60 × 65H MM, the compact design allows for simple recessed ceiling installation. It is compatible with standard ceiling cutouts, ensuring a professional flush-mounted finish.",
+    "Versatile Application": "Perfect for hallways, offices, living rooms, conference areas, and other indoor spaces. The sensor enhances safety and efficiency by activating lights automatically when movement is detected."
+  },
+  "specifications": {
+    "Model Number": "SL MIR 220",
+    "Shape": "Round",
+    "Body Color": "White",
+    "Input": "AC 185V-240V",
+    "Type": "Ceiling Recessed",
+    "Size": "85 × 60 × 65H MM",
+    "Rating": "IP20",
+    "Warranty": "1 Year"
+  },
+  "images": [
+    "assets/img/sensor/sns-14.jpg",
+    "assets/img/sensor/sns-12.jpg"
+  ]
+},
+  {
+    "id": 3,
+    "title": "Quick Sense Sensor - Surface Mount",
+    "model": "SL SF PIR 220",
+    "description": "The SL SF PIR 220 is a round surface mount Quick Sense sensor designed for efficient motion detection in residential and commercial spaces. Its sleek white body blends seamlessly into ceilings and walls, while the advanced sensor technology provides reliable detection for automated lighting control, enhancing energy efficiency and convenience.",
+    "details": {
+      "Product Details": "A surface-mounted motion sensor for automated lighting control, ensuring lights turn on/off based on presence.",
+      "Premium Construction": "Durable white body finish provides a clean, unobtrusive look suitable for modern interiors.",
+      "Sensor Performance": "Advanced PIR detection technology ensures accurate and responsive motion sensing.",
+      "Installation": "Compact size of 115 x 25 mm allows easy mounting on ceilings or walls without affecting aesthetics.",
+      "Applications": "Ideal for hallways, corridors, bathrooms, kitchens, offices, and commercial areas where automated lighting is desired."
+    },
+    "specifications": {
+      "Model Number": "SL SF PIR 220",
+      "Shape": "Round",
+      "Body Color": "White",
+      "Input Voltage": "AC 185V-240V",
+      "Type": "Surface Mount",
+      "Size": "115 x 25 mm",
+      "Rating": "IP20",
+      "Warranty": "1 Year"
+    },
+    "images": ["assets/img/sensor/sns-20.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "PIR Motion Sensor Light",
+    "model": "SL PIR 141 RD",
+    "description": "The SL PIR 141 RD is a compact 10W round rechargeable motion sensor light powered by DC 5V. Designed for residential and small commercial spaces, it ensures automated illumination when motion is detected, enhancing convenience, safety, and energy efficiency. Its sleek, modern design allows it to blend seamlessly into any interior, making it both functional and aesthetically pleasing.",
+    "details": {
+      "Product Details": "Round motion sensor light with rechargeable DC 5V battery, providing reliable automated lighting for corridors, closets, staircases, and cabinets.",
+      "Premium Construction": "Durable, compact round body ensures long-lasting performance and ease of installation, while maintaining a clean and modern look.",
+      "Sensor Performance": "Advanced PIR detection ensures immediate response when motion is detected, providing hassle-free, energy-saving lighting.",
+      "Installation": "Small and lightweight form factor allows easy mounting on shelves, walls, or ceilings without affecting décor.",
+      "Applications": "Perfect for hallways, wardrobes, staircases, kitchens, bathrooms, and small offices, where automated, energy-efficient lighting is essential."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 141 RD",
+      "Input Voltage": "DC 5V (Rechargeable)",
+      "Shape": "Round",
+      "Rechargeable": "Yes",
+      "Warranty": "1 Year"
+    },
+    "images": ["assets/img/sensor/sensor-1.png"]
+  },
+  {
+    "id": 5,
+    "title": "PIR Motion Sensor Light",
+    "model": "SL PIR 141",
+    "description": "The SL PIR 141 is a rectangular rechargeable motion sensor light operating on AC 185V-240V. Engineered for both residential and commercial spaces, this sensor light provides reliable and automated illumination while reducing electricity consumption. Its rectangular form factor and sleek design make it ideal for wall or ceiling mounting in hallways, offices, and living areas.",
+    "details": {
+      "Product Details": "Rectangular motion sensor light with AC power and rechargeable battery, delivering consistent, bright, and energy-efficient lighting.",
+      "Premium Construction": "Durable and modern rectangular body ensures longevity and seamless integration into contemporary interiors.",
+      "Sensor Performance": "Highly responsive PIR motion detection activates lights immediately upon detecting movement, enhancing convenience and security.",
+      "Installation": "Compact and lightweight design allows for flexible mounting on walls or ceilings, adapting to various interior layouts.",
+      "Applications": "Ideal for hallways, offices, kitchens, bathrooms, corridors, and commercial areas requiring reliable automated lighting."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 141",
+      "Input Voltage": "AC 185V-240V",
+      "Shape": "Rectangular",
+      "Rechargeable": "Yes",
+      "Warranty": "1 Year"
+    },
+    "images": ["assets/img/sensor/sensor-2.jpg"]
+  },
+  {
+    "id": 6,
+    "title": "PIR Motion Sensor Light",
+    "model": "SL PIR 151",
+    "description": "The SL PIR 151 is a round AC 220V motion sensor light with 3-in-1 CCT options (3K/4K/6K), providing versatile automated illumination for residential and commercial applications. Designed for spaces requiring adaptive and efficient lighting, this fixture combines advanced PIR sensor technology with premium construction, ensuring accurate detection, energy savings, and aesthetic appeal.",
+    "details": {
+      "Product Details": "Round motion sensor light with AC 220V input and multiple CCT options, offering flexible, energy-efficient automated lighting solutions.",
+      "Premium Construction": "Robust and sleek round body design ensures durability, long-term performance, and compatibility with modern interiors.",
+      "Sensor Performance": "High-sensitivity PIR detection instantly triggers lights upon motion, making it ideal for security and convenience.",
+      "Installation": "Compact and lightweight, it can be easily mounted on ceilings or walls, adapting to any interior layout.",
+      "Applications": "Perfect for bedrooms, corridors, staircases, offices, kitchens, and commercial spaces that require efficient, automated, and versatile lighting."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 151",
+      "Input Voltage": "AC 220V",
+      "Shape": "Round",
+      "CCT": "3K/4K/6K",
+      "Rechargeable": "Yes",
+      "Warranty": "1 Year"
+    },
+    "images": ["assets/img/sensor/sensor-3.png"]
+  },
+
+  {
+    "id": 7,
+    "title": "Outdoor Motion Sensor Light",
+    "model": "SL FL PIR 803",
+    "description": "The SL FL PIR 803 is a compact 3W outdoor motion sensor light that combines modern design with intelligent lighting control. Featuring a PIR sensor for automatic activation, it provides energy-efficient illumination perfect for entrances, pathways, and security applications. Its IP65 rating ensures durability and reliable outdoor use in all weather conditions.",
+    "details": {
+      "Product Details": "This square-shaped motion sensor light activates automatically upon detecting motion, making it ideal for enhancing outdoor safety and visibility.",
+      "Design": "Sleek and modern square body design (85*85MM) available in white or black finish. Built with a compact housing that fits seamlessly into walls or ceilings.",
+      "Lighting Effect": "Delivers bright and focused illumination with minimal power consumption, providing effective coverage while maintaining low energy costs.",
+      "Applications": "Perfect for doorways, parking areas, porches, pathways, and building exteriors where automatic lighting enhances convenience and safety.",
+      "Durability": "Rated IP65, it offers superior resistance against water, dust, and moisture, ensuring dependable long-term performance."
+    },
+    "specifications": {
+      "Model Number": "SL FL PIR 803",
+      "Wattage": "3W",
+      "Input Voltage": "AC85-265V",
+      "Shape": "Square",
+      "Body Color": "WH/BK",
+      "Type": "PIR Sensor",
+      "Size": "85*85MM",
+      "Cut Out": "65*65MM",
+      "Rating": "IP65",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/sen-1use.jpg",
+      "assets/img/sensor/sen-1.webp",
+      "assets/img/sensor/sen-1-1use.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Outdoor Motion Sensor Light",
+    "model": "SL FL PIR 401A",
+    "description": "The SL FL PIR 401A is a 3W outdoor motion sensor light featuring advanced USA CREE LED technology. It provides bright, efficient illumination combined with intelligent motion detection. Designed for outdoor spaces, it blends durability with high performance for reliable use in security and architectural lighting applications.",
+    "details": {
+      "Product Details": "Equipped with a built-in PIR sensor, this light detects movement instantly and activates automatically, providing practical and energy-saving illumination.",
+      "Design": "The modern rectangular design (210*40*30MM) with a white or black finish complements contemporary exteriors while offering robust weather resistance.",
+      "Lighting Effect": "Delivers powerful, glare-free brightness using high-efficiency USA CREE LEDs for consistent outdoor lighting performance.",
+      "Applications": "Ideal for outdoor walls, gates, entrances, balconies, and security zones requiring smart automatic lighting.",
+      "Durability": "IP65-rated waterproof structure ensures protection from rain, humidity, and dust, suitable for long-lasting outdoor operation."
+    },
+    "specifications": {
+      "Model Number": "SL FL PIR 401A",
+      "Wattage": "3W",
+      "LED": "USA CREE",
+      "Input Voltage": "AC85-265V",
+      "Body Color": "WH/BK",
+      "Size": "210*40*30MM",
+      "Rating": "IP65",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/sen-2use.jpg",
+      "assets/img/sensor/sen-2.jpg",
+      "assets/img/sensor/sen2-2use.jpg"
+    
+    ]
+  },
+
+  {
+    "id": 9,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLTSS01",
+    "description": "SL SMART SENSORS & ACCESORIES touch sensor with responsive activation, ideal for smart lighting control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES touch sensor for controlling lights with a simple touch.",
+      "Design": "SL SMART SENSORS & ACCESORIES compact design with black finish (BK) suitable for modern interiors.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES works with LED or conventional lights, enabling smooth touch control.",
+      "Applications": "SL SMART SENSORS & ACCESORIES ideal for home or office lighting automation.",
+      "Durability": "SL SMART SENSORS & ACCESORIES standard durability for indoor applications."
+    },
+    "specifications": {
+      "Model Number": "SLTSS01",
+      "Power rating": "12V DC 4.5A",
+      "Body Color": "BK",
+      "Description": "Touch Sensor",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sn-a12.png"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLTSS02",
+    "description": "SL SMART SENSORS & ACCESORIES touch dimmer sensor for smooth lighting control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES touch dimmer for adjustable lighting levels.",
+      "Design": "SL SMART SENSORS & ACCESORIES compact design with black finish (BK) suitable for modern interiors.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES enables smooth dimming of compatible lights.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for bedrooms, living rooms, and office spaces.",
+      "Durability": "SL SMART SENSORS & ACCESORIES durable design for everyday use."
+    },
+    "specifications": {
+      "Model Number": "SLTSS02",
+      "Power rating": "12V DC 4A",
+      "Body Color": "BK",
+      "Description": "Touch Dimmer Sensor",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a13.png"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLTSS03",
+    "description": "SL SMART SENSORS & ACCESORIES tunable 3-in-1 sensor for versatile lighting control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES 3-in-1 sensor combining multiple features for versatile lighting.",
+      "Design": "SL SMART SENSORS & ACCESORIES black finish (BK) suitable for modern interiors.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES provides smart control and interaction with lights.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for modern homes, offices, and smart lighting systems.",
+      "Durability": "SL SMART SENSORS & ACCESORIES reliable build with standard durability."
+    },
+    "specifications": {
+      "Model": "SLTSS03",
+      "Power rating": "12V DC 4A",
+      "Body Color": "BK",
+      "Description": "Tunable Sensor 3in1",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a14.png"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLAR2100J",
+    "description": "SL SMART SENSORS & ACCESORIES staircase switch for convenient lighting control in staircases and corridors.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES automatic or manual staircase switch for smooth lighting control.",
+      "Design": "SL SMART SENSORS & ACCESORIES white/PC finish (WH/PC), compact design for wall mounting.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES controls lights efficiently with easy operation.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for staircases, corridors, and entrance areas.",
+      "Durability": "SL SMART SENSORS & ACCESORIES reliable performance with 1-year warranty."
+    },
+    "specifications": {
+      "Model ": "SLAR2100J",
+      "Power rating": "220 V",
+      "Description": "Staircase Switch",
+      "Body Color": "WH/PC",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a-7.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLPIR200",
+    "description": "SL SMART SENSORS & ACCESORIES staircase switch for simple and reliable lighting control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES staircase switch for convenient lighting control.",
+      "Design": "SL SMART SENSORS & ACCESORIES white/PC finish (WH/PC), suitable for wall installation.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES ensures smooth operation of lights on staircases.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for staircases, hallways, and entrances.",
+      "Durability": "SL SMART SENSORS & ACCESORIES durable design with standard warranty."
+    },
+    "specifications": {
+      "Model Number": "SLPIR200",
+      "Power rating": "220 V",
+      "Description": "Staircase Switch",
+      "Body Color": "WH/PC",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a8.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLSFPIR220",
+    "description": "SL SMART SENSORS & ACCESORIES surface sensor for automatic lighting control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES surface sensor detects motion and activates lighting automatically.",
+      "Design": "SL SMART SENSORS & ACCESORIES white/PC finish (WH/PC), compact for wall installation.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES provides smart automatic lighting control.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for corridors, entrances, and indoor/outdoor areas.",
+      "Durability": "SL SMART SENSORS & ACCESORIES reliable IP-rated design for long-term use."
+    },
+    "specifications": {
+      "Model Number": "SLSFPIR220",
+      "Power rating": "220 V",
+      "Description": "Surface Sensor",
+      "Body Color": "WH/PC",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a9.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLLDR290",
+    "description": "SL SMART SENSORS & ACCESORIES day/night sensor for automatic lighting based on ambient light.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES day/night sensor for automatic light activation based on ambient light.",
+      "Design": "SL SMART SENSORS & ACCESORIES white/PC finish (WH/PC), sleek and compact design.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES ensures lights operate only when needed for energy saving.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for outdoor areas, entrances, and security zones.",
+      "Durability": "SL SMART SENSORS & ACCESORIES reliable build with standard protection and 1-year warranty."
+    },
+    "specifications": {
+      "Model Number": "SLLDR290",
+      "Power rating": "220 V AC/70w(Max)",
+      "Description": "Day/Night Sensor",
+      "Body Color": "WH/PC",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/zz-indoor/sns-a10.jpg"
+    ]
+  },
+
+  {
+    "id": 16,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLDS0287",
+    "description": "SL SMART SENSORS & ACCESORIES double door sensor for automatic detection and control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES double door sensor detects door movement and triggers alerts or lighting.",
+      "Design": "SL SMART SENSORS & ACCESORIES compact design, white finish (WH), size 100x55x35 mm.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES ensures smooth sensor operation and reliable detection.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for home, office, and commercial doors.",
+      "Durability": "SL SMART SENSORS & ACCESORIES built for long-lasting performance with 1-year warranty."
+    },
+    "specifications": {
+      "Model Number": "SLDS0287",
+      "Wattage": "100-240 V AC, 250W Max",
+      "Input Voltage": "100-240 V AC",
+      "Body Color": "WH",
+      "Size": "100x55x35 mm",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/slds0287-1.jpg",
+      "assets/img/sensor/slds0287-2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLPIR0288",
+    "description": "SL SMART SENSORS & ACCESORIES double PIR sensor for motion detection and automatic control.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES double PIR sensor detects motion within a range of 1.5 m.",
+      "Design": "SL SMART SENSORS & ACCESORIES white finish (WH), compact design, size 100x55x35 mm.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES triggers lighting or alerts automatically upon detection.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for home, office, and security areas.",
+      "Durability": "SL SMART SENSORS & ACCESORIES durable design with 1-year warranty."
+    },
+    "specifications": {
+      "Model Number": "SLPIR0288",
+      "Wattage": "100-240 V AC, 250W Max",
+      "Input Voltage": "100-240 V AC",
+      "Body Color": "WH",
+      "Size": "100x55x35 mm",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/slpir0288-1.jpg",
+      "assets/img/sensor/slpir0288-2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "SL SMART SENSORS & ACCESORIES",
+    "model": "SLWL317",
+    "description": "SL SMART SENSORS & ACCESORIES wireless PIR sensor with control box for flexible motion detection.",
+    "details": {
+      "Product Details": "SL SMART SENSORS & ACCESORIES wireless PIR sensor detects motion in the range of 1-3 m with 15s delay time.",
+      "Design": "SL SMART SENSORS & ACCESORIES blue/PC finish (BL/PC), compact design, size 50x45x10 mm.",
+      "Lighting Effect": "SL SMART SENSORS & ACCESORIES triggers lighting or alerts automatically upon detection.",
+      "Applications": "SL SMART SENSORS & ACCESORIES suitable for homes, offices, and remote areas requiring wireless control.",
+      "Durability": "SL SMART SENSORS & ACCESORIES reliable build with 1-year warranty."
+    },
+    "specifications": {
+      "Model Number": "SLWL317",
+      "Wattage": "12V DC",
+      "Input Voltage": "12V DC",
+      "Body Color": "BL/PC",
+      "Size": "50x45x10 mm",
+      "Warranty": "1 Year"
+    },
+    "images": [
+      "assets/img/sensor/slwl317-1.jpg",
+      "assets/img/sensor/slwl317-2.jpg"
+    ]
+  }
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+]

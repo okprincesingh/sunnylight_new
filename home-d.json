@@ -1,0 +1,99 @@
+[
+    {
+  "id": 1,
+  "title": "360° Recessed Light Telescope",
+  "model": "SL CR 204",
+  "description": "The SL CR 204 is a powerful 25W recessed telescopic spotlight engineered for premium interiors requiring high-intensity, directional illumination. Powered by advanced USA CREE LEDs, it delivers exceptional brightness and clarity while maintaining elegant aesthetics and energy efficiency.",
+  "details": {
+    "Product Details": "This 25W model offers precise 360° directional adjustment, allowing users to focus light exactly where needed. Ideal for accent lighting, architectural highlights, or display-focused spaces.",
+    "Design": "The fixture features a refined round body with a White and Black dual-tone finish, blending effortlessly with modern ceiling designs. Its 130x140MM body and 130MM cut-out ensure a secure fit and smooth installation.",
+    "Lighting Effect": "Provides bright, uniform light with excellent color rendering, emphasizing textures and details while minimizing glare.",
+    "Applications": "Perfect for art galleries, designer homes, retail outlets, and hospitality spaces that demand both performance and aesthetics.",
+    "Durability": "Crafted with precision engineering and heat-resistant materials, ensuring consistent performance and longevity under daily use."
+  },
+  "specifications": {
+    "Model Number": "SL CR 204",
+    "Wattage": "25W",
+    "LED": "USA CREE",
+    "Input Voltage": "AC 185V-240V",
+    "Shape": "Round",
+    "Body Color": "White + Black",
+    "Size": "130x140MM",
+    "Cut Out": "130MM",
+    "Warranty": "2 Years"
+  },
+  "images": ["assets/img/indoor/indoor-4.jpg"]
+},
+ {
+    "id": 4,
+    "title": "Led Aluminium Profile",
+    "model": "SL 883 Bendable Profile",
+    "description": "Led Aluminium Profile SL 883 Bendable Profile with 16x6MM size and 120° beam angle for curved lighting applications.",
+    "details": {
+      "Product Details": "Flexible aluminium profile designed for curved or rounded surface installations.",
+      "Design": "Slim 16x6MM body with bendable structure ideal for architectural creativity.",
+      "Lighting Effect": "120° wide beam offering smooth, continuous light distribution.",
+      "Applications": "Best suited for signage, ceiling curves, and modern interior lighting.",
+      "Durability": "Flexible yet sturdy aluminium ensures durability and long performance life."
+    },
+    "specifications": {
+      "Model Number": "SL 883 Bendable Profile",
+      "Size": "16*6MM",
+      "Degree": "120°"
+    },
+    "images": [
+      "assets/img/indoor/pin-2.png",
+      "assets/img/indoor/pin-2use.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Track Light",
+    "model": "SL CR TR 1110",
+    "description": "The SL CR TR 1110 is a 10W round track light using high-quality USA CREE LEDs. It delivers bright and uniform illumination while offering multiple CCT options. Designed with a premium Rose Gold/Gold/Dark Chrome body, it is suitable for wall or track base installation, combining aesthetics and functionality for modern interiors.",
+    "details": {
+      "Product Details": "A 10W round track light with USA CREE LED technology, providing consistent, energy-efficient lighting with multiple color temperature options.",
+      "Premium Construction": "Available in Rose Gold, Gold, and Dark Chrome finishes, offering both durability and elegant design.",
+      "Lighting Performance": "High CRI ensures accurate and vibrant color rendering, with CCT options of 3K/4K/6K for flexible lighting setups.",
+      "Installation": "Supports wall or track base mounting, allowing versatility in positioning and direction of light.",
+      "Applications": "Ideal for accent lighting in galleries, retail stores, boutique spaces, and modern residential interiors."
+    },
+    "specifications": {
+      "Model Number": "SL CR TR 1110",
+      "Wattage": "10W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "Rose Gold/Gold/Dark Chrome",
+      "CCT": "3K/4K/6K",
+      "Mounting Option": "Wall/Track Base",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-2.jpg"]
+  },
+   {
+    "id": 2,
+    "title": "PIR Motion Sensor Light",
+    "model": "SL PIR 141 RD",
+    "description": "The SL PIR 141 RD is a compact 10W round rechargeable motion sensor light powered by DC 5V. Designed for residential and small commercial spaces, it ensures automated illumination when motion is detected, enhancing convenience, safety, and energy efficiency. Its sleek, modern design allows it to blend seamlessly into any interior, making it both functional and aesthetically pleasing.",
+    "details": {
+      "Product Details": "Round motion sensor light with rechargeable DC 5V battery, providing reliable automated lighting for corridors, closets, staircases, and cabinets.",
+      "Premium Construction": "Durable, compact round body ensures long-lasting performance and ease of installation, while maintaining a clean and modern look.",
+      "Sensor Performance": "Advanced PIR detection ensures immediate response when motion is detected, providing hassle-free, energy-saving lighting.",
+      "Installation": "Small and lightweight form factor allows easy mounting on shelves, walls, or ceilings without affecting décor.",
+      "Applications": "Perfect for hallways, wardrobes, staircases, kitchens, bathrooms, and small offices, where automated, energy-efficient lighting is essential."
+    },
+    "specifications": {
+      "Model Number": "SL PIR 141 RD",
+      "Input Voltage": "DC 5V (Rechargeable)",
+      "Shape": "Round",
+      "Rechargeable": "Yes",
+      "Warranty": "1 Year"
+    },
+    "images": ["assets/img/sensor/sensor-1.png"]
+  }
+
+
+
+
+]

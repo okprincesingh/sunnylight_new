@@ -1,0 +1,6156 @@
+[
+    {
+        "id": 1,
+        "title": "Sl Led Panel Edge Lit - Smart Series",
+        "images": "assets/img/zz-indoor/sl-1.jpg",
+        "table-data": [
+            {
+                "Product Code": "SL 006-33",
+                "Watt": "6W",
+                "CCT": "4K / 6K",
+                "Lumen": "450 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:120x120x25mm | Hole:105x105mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "40"
+            },
+            {
+                "Product Code": "SL 012-33",
+                "Watt": "12W",
+                "CCT": "4K / 6K",
+                "Lumen": "950 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:172x172x25mm | Hole:155x155mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "40"
+            },
+            {
+                "Product Code": "SL 015-33",
+                "Watt": "15W",
+                "CCT": "4K / 6K",
+                "Lumen": "1150 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:172x172x25mm | Hole:155x155mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "40"
+            },
+            {
+                "Product Code": "SL 018-33",
+                "Watt": "18W",
+                "CCT": "4K / 6K",
+                "Lumen": "1450 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:225x225x25mm | Hole:205x205mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "20"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Sl Led Panel Back Lit - Smart Series",
+        "images": "assets/img/zz-indoor/sl-2.png",
+        "table-data": [
+            {
+                "Product Code": "SL 006-34",
+                "Watt": "6W",
+                "CCT": "4K / 6K",
+                "Lumen": "450 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:110x110x25mm | Hole:90x90mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "40"
+            },
+            {
+                "Product Code": "SL 012-34",
+                "Watt": "12W",
+                "CCT": "4K / 6K",
+                "Lumen": "950 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:150x150x25mm | Hole:130x130mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "40"
+            },
+            {
+                "Product Code": "SL 018-34",
+                "Watt": "18W",
+                "CCT": "4K / 6K",
+                "Lumen": "1450 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:170x170x25mm | Hole:150x150mm",
+                "LED Specifications": "Epistar",
+                "Warranty": "2 Years",
+                "CRI": ">85",
+                "PF": "≥.95",
+                "Qty": "20"
+            }
+        ]
+    },
+
+
+    {
+        "id": 3,
+        "title": "SL LED Panels Full Series",
+        "images": [
+  "assets/img/zz-indoor/sl-3.jpg",
+  "assets/img/zz-indoor/sl-4.jpg"
+],
+        "table-data": [
+            {
+                "Product Code": "SL003*",
+                "Watt": "3W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "270 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:85x85x25mm | Hole:72x72mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "50"
+            },
+            {
+                "Product Code": "SL006*",
+                "Watt": "6W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "540 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:120x120x25mm | Hole:105x105mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL012*",
+                "Watt": "12W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1080 Lm",
+                "Shape": "Round",
+                "Beam": "120°",
+                "Size": "Outer:172x172x25mm | Hole:155x155mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL018*",
+                "Watt": "18W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1620 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:225x225x25mm | Hole:205x205mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL030",
+                "Watt": "30W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "2650 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:300x300x25mm | Hole:275x275mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "10"
+            },
+            {
+                "Product Code": "SL4248",
+                "Watt": "45W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "3240 Lm",
+                "Shape": "Square",
+                "Beam": "120°",
+                "Size": "Outer:595x595x25mm | Hole:580x580mm",
+                "Brand": "SMD / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "2.95",
+                "Qty": "1"
+            }
+        ]
+    },
+    
+    {
+        "id": 4,
+        "title": "Sl Led Panel Backlit",
+        "images": "assets/img/zz-indoor/sl-5.webp",
+        "table-data": [
+            {
+                "Product Code": "SL 008*",
+                "Watt": "8W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "720 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:110x110x30mm | Hole:100x100mm",
+                "LED": "SMD 2835 / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL 015*",
+                "Watt": "15W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1350 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:65x165x35mm | Hole:145x145mm",
+                "LED": "SMD 2835 / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL 022",
+                "Watt": "22W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1980 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:200x200x35mm | Hole:180x180mm",
+                "LED": "SMD 2835 / EDISON TAIWAN",
+                "Warranty": "2 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            }
+        ]
+    },
+    
+    {
+        "id": 5,
+        "title": "SL LED Slim Panel - Trimmy Series",
+        "images": ["assets/img/zz-indoor/sl-6.jpg",
+    "assets/img/zz-indoor/sl-6.jpg"],
+        "table-data": [
+            {
+                "Product Code": "SL 006-32C*",
+                "Watt": "6W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "540 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:93x93xmm | Hole:80x80mm",
+                "LED": "Epistar / PTPA",
+                "Warranty": "1 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL 0012-32C",
+                "Watt": "12W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1080 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:140x140mm | Hole:120x120mm",
+                "LED": "Epistar / PTPA",
+                "Warranty": "1 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            },
+            {
+                "Product Code": "SL 0018-32C",
+                "Watt": "18W",
+                "CCT": "3K / 4K / 6K",
+                "Lumen": "1620 Lm",
+                "Shape": "Round / Square",
+                "Beam": "120°",
+                "Size": "Outer:195x195mm | Hole:170x170mm",
+                "LED": "Epistar / PTPA",
+                "Warranty": "1 Year",
+                "CRI": ">85",
+                "PF": "≥0.95",
+                "Qty": "20"
+            }
+        ]
+    },
+    {
+    "id": 6,
+    "title": "SL LED Remote Panel Edge Lit",
+    "images": "assets/img/zz-indoor/sl-7.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL006R",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "540 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:120x120mm | Hole:105x105mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL0012R",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1080 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:172x172mm | Hole:155x155mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        }
+    ]
+},
+{
+    "id": 7,
+    "title": "SL LED Panel With Built-In Driver - Prime Series",
+    "images":[ "assets/img/zz-indoor/sl-8.jpg",
+    "assets/img/zz-indoor/sl-9.jpg"
+],
+    "table-data": [
+        {
+            "Product Code": "SL 006",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "450 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:120x120mm | Hole:105x105mm",
+            "LED": "EPISTAR / PTPA",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": "2.65",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL 012",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "950 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:175x175mm | Hole:155x155mm",
+            "LED": "EPISTAR / PTPA",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": "≥0.65",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL 015",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1150 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:200x200mm | Hole:175x175mm",
+            "LED": "EPISTAR / PTPA",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": "≥0.65",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL 018",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1450 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:225x225mm | Hole:205x205mm",
+            "LED": "EPISTAR / PTPA",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": "2.65",
+            "Qty": "20"
+        }
+    ]
+},
+{
+    "id": 8,
+    "title": "SL LED Down Lights - Galaxy Series",
+    "images": [ "assets/img/zz-indoor/sl-10.png",
+    "assets/img/zz-indoor/sl-11.png"
+],
+    "table-data": [
+        {
+            "Product Code": "SL-DL-ED6",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "540 Lm",
+            "Shape": "Round / Square",
+            "Beam": "110°",
+            "Size": "Outer:85mm | Hole:70mm",
+            "LED": "SMD 2835",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "SL-DL-ED12",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1080 Lm",
+            "Shape": "Round / Square",
+            "Beam": "110°",
+            "Size": "Outer:125mm | Hole:110mm",
+            "LED": "SMD 2835",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL-DL-ED18",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1620 Lm",
+            "Shape": "Round / Square",
+            "Beam": "110°",
+            "Size": "Outer:175mm | Hole:155mm",
+            "LED": "SMD 2835",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL-DL-ED30",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2400 Lm",
+            "Shape": "Round / Square",
+            "Beam": "110°",
+            "Size": "Outer:240mm | Hole:215mm",
+            "LED": "SMD 2835",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "10"
+        }
+    ]
+},
+{
+    "id": 9,
+    "title": "SL Down Lights - Crystal Series",
+    "images": ["assets/img/zz-indoor/sl-12.webp","assets/img/zz-indoor/sl-13.webp"],
+    "table-data": [
+        {
+            "Product Code": "SLX008",
+            "Watt": "7W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "560 Lm",
+            "Shape": "Round",
+            "Beam": "120°",
+            "Size": "Outer:110x60mm | Hole:90mm",
+            "LED": "Sanan",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.95",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "SL004C",
+            "Watt": "4W",
+            "CCT": "6K",
+            "Lumen": "320 Lm",
+            "Shape": "Round",
+            "Beam": "120°",
+            "Size": "Outer:100x55mm | Hole:85mm",
+            "LED": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.75",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "SL008C",
+            "Watt": "8W",
+            "CCT": "6K",
+            "Lumen": "640 Lm",
+            "Shape": "Round",
+            "Beam": "120°",
+            "Size": "Outer:115x63mm | Hole:95mm",
+            "LED": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.95",
+            "Qty": "50"
+        }
+    ]
+},
+{
+    "id": 10,
+    "title": "SF Slim Surface Panel - Solitaire Series",
+    "images": "assets/img/zz-indoor/sl-14.webp",
+    "table-data": [
+        {
+            "Product Code": "SL-006SF",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "540 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:90x90x25mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL-012SF",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1080 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:140x140x25mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL-018SF",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1620 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:190x190x25mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL4248SF",
+            "Watt": "45W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "3240 Lm",
+            "Shape": "Square",
+            "Beam": "120°",
+            "Size": "Outer:600x600x50mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "10"
+        }
+    ]
+},
+{
+    "id": 11,
+    "title": "SL Surface Panel",
+    "images": "assets/img/zz-indoor/sl-15.webp",
+    "table-data": [
+        {
+            "Product Code": "SL006SF",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "540 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:120x120x35mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL012SF",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1080 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:170x170x35mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL018SF",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1620 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:225x225x35mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL030SF",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2700 Lm",
+            "Shape": "Round / Square",
+            "Beam": "120°",
+            "Size": "Outer:300x300x25mm",
+            "LED": "SMD 2835 / EDISON TAIWAN",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "10"
+        }
+    ]
+},
+{
+    "id": 12,
+    "title": "SL COB Down Lights - Bloom Series",
+    "images": "assets/img/zz-indoor/sl-16.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL 07-98",
+            "Watt": "7W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "640 Lm",
+            "Shape": "Round / Square",
+            "Beam": "70°",
+            "Size": "Outer:115x115mm | Hole:95x95mm",
+            "LED": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.65",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL10-98",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "920 Lm",
+            "Shape": "Round / Square",
+            "Beam": "70°",
+            "Size": "Outer:135x135mm | Hole:110x110mm",
+            "LED": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.65",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SL20-98",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1900 Lm",
+            "Shape": "Round / Square",
+            "Beam": "70°",
+            "Size": "Outer:185x185mm | Hole:155x155mm",
+            "LED": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "≥0.65",
+            "Qty": "20"
+        }
+    ]
+},
+{
+    "id": 13,
+    "title": "SL COB Spotlight - Coral Series",
+    "images": "assets/img/zz-indoor/sl-17.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL-CR-03B",
+            "Watt": "3W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "270 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "Dia:30mm | Ht:50mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≤0.6",
+            "Qty": "120"
+        },
+        {
+            "Product Code": "SL-CR-09*",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "945 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "90x75x105mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "21"
+        },
+        {
+            "Product Code": "SL-CR-20*",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2100 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "24°",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "18"
+        },
+        {
+            "Product Code": "SL-CR-25*",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2650 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "140x120x160mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "8"
+        },
+        {
+            "Product Code": "SL-CR-30*",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "3000 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "N/A",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "8"
+        },
+        {
+            "Product Code": "SL-CR-40",
+            "Watt": "40W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "4000 Lm",
+            "Shape": "Spotlight",
+            "Beam": "24°",
+            "Size": "180x140x160mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.95",
+            "Qty": "8"
+        }
+    ]
+},
+{
+    "id": 14,
+    "title": "SL COB Movable SF Spotlight - Coral Series",
+    "images": "assets/img/zz-indoor/sl-18.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLSFCR12",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1200 Lm",
+            "Beam": "40°",
+            "Size": "Dia:95mm | Ht:120mm",
+            "LED": "Cree USA",
+            "Description": "SF COB Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLSFCR15",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1500 Lm",
+            "Beam": "40°",
+            "Size": "Dia:130mm | Ht:145mm",
+            "LED": "Cree USA",
+            "Description": "SF COB Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "15"
+        },
+        {
+            "Product Code": "SLSFCR25",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2500 Lm",
+            "Beam": "40°",
+            "Size": "Dia:160mm | Ht:180mm",
+            "LED": "Cree USA",
+            "Description": "SF COB Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "10"
+        }
+    ]
+},
+{
+    "id": 15,
+    "title": "SL COB Laser Blade Spotlight - Matrix Series",
+    "images": "assets/img/zz-indoor/sl-19.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLCY-2",
+            "Watt": "2W",
+            "CCT": "3K / 4K",
+            "Lumen": "190 Lm",
+            "Beam": "30°",
+            "Size": "Outer:45x45mm | Hole:35x35mm | Height:50mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.9",
+            "Qty": "100"
+        },
+        {
+            "Product Code": "SLCY-4",
+            "Watt": "4W",
+            "CCT": "3K / 4K",
+            "Lumen": "380 Lm",
+            "Beam": "30°",
+            "Size": "Outer:45x75mm | Hole:35x65mm | Height:50mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.9",
+            "Qty": "60"
+        },
+        {
+            "Product Code": "SLCY-10",
+            "Watt": "10W",
+            "CCT": "3K / 4K",
+            "Lumen": "950 Lm",
+            "Beam": "30°",
+            "Size": "Outer:45x148mm | Hole:35x138mm | Height:50mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.9",
+            "Qty": "40"
+        },
+        {
+            "Product Code": "SLCY-20",
+            "Watt": "20W",
+            "CCT": "3K / 4K",
+            "Lumen": "1900 Lm",
+            "Beam": "30°",
+            "Size": "Outer:45x280mm | Hole:35x270mm | Height:50mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.9",
+            "Qty": "30"
+        },
+        {
+            "Product Code": "SLCY-30",
+            "Watt": "30W",
+            "CCT": "3K / 4K",
+            "Lumen": "2850 Lm",
+            "Beam": "30°",
+            "Size": "Outer:45x415mm | Hole:35x405mm | Height:50mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥0.9",
+            "Qty": "15"
+        }
+    ]
+},
+{
+    "id": 16,
+    "title": "SL COB Spotlight - Matrix Series",
+    "images": "assets/img/zz-indoor/sl-20.jpeg",
+    "table-data": [
+        {
+            "Product Code": "SLCR-291*",
+            "Watt": "5W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "475 Lm",
+            "Beam": "24°",
+            "Size": "Outer:67mm | Hole:55mm | Height:82mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≤0.60",
+            "Qty": "24"
+        },
+        {
+            "Product Code": "SLCR-292",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "950 Lm",
+            "Beam": "24°",
+            "Size": "Outer:84mm | Hole:75mm | Height:100mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "SLCR-293",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1425 Lm",
+            "Beam": "24°",
+            "Size": "Outer:110mm | Hole:96mm | Height:113mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "8"
+        },
+        {
+            "Product Code": "SLCR-294",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2375 Lm",
+            "Beam": "24°",
+            "Size": "Outer:130mm | Hole:118mm | Height:135mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "12"
+        },
+        {
+            "Product Code": "SLCR-301C",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "950 Lm",
+            "Beam": "24°",
+            "Size": "Outer:105mm | Hole:95mm | Height:95mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "24"
+        },
+        {
+            "Product Code": "SLCR-302C",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1425 Lm",
+            "Beam": "24°",
+            "Size": "Outer:135mm | Hole:125mm | Height:100mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "12"
+        },
+        {
+            "Product Code": "SLCR-303C",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2375 Lm",
+            "Beam": "24°",
+            "Size": "Outer:160mm | Hole:145mm | Height:120mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "12"
+        }
+    ]
+},
+{
+    "id": 17,
+    "title": "SL COB Zoom Spotlight - Matrix Series",
+    "images": ["assets/img/zz-indoor/sl-21.webp",
+"assets/img/zz-indoor/sl-21-1.png"],
+    "table-data": [
+        {
+            "Product Code": "SLZ-025",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2250 Lm",
+            "Beam": "40°",
+            "Size": "Outer:152x125mm | Hole:140mm",
+            "LED": "CREE USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLZ-035",
+            "Watt": "35W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "3150 Lm",
+            "Beam": "40°",
+            "Size": "Outer:186x150mm | Hole:175mm",
+            "LED": "CREE USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLBYZX20",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1900 Lm",
+            "Beam": "36°",
+            "Size": "Outer:130mm | Hole:115mm | Height:98mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "30"
+        },
+        {
+            "Product Code": "SLBYZX30",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2850 Lm",
+            "Beam": "36°",
+            "Size": "Outer:160mm | Hole:135mm | Height:130mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "30"
+        }
+    ]
+},
+{
+    "id": 18,
+    "title": "SL COB Spotlight - Matrix Series",
+    "images": ["assets/img/zz-indoor/sl-22.jpg",
+    "assets/img/zz-indoor/sl-22-1.jpg",
+    "assets/img/zz-indoor/sl-22-3.png"
+],
+    "table-data": [
+        {
+            "Product Code": "SLCR-1201",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1140 Lm",
+            "Beam": "38°",
+            "Size": "Outer:130x130mm | Hole:115x115mm | Height:85mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLCR-1801",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1710 Lm",
+            "Beam": "38°",
+            "Size": "Outer:155x155mm | Hole:140x140mm | Height:105mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLCR-1202",
+            "Watt": "24W (12*2)",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "2280 Lm",
+            "Beam": "38°",
+            "Size": "Outer:235x135mm | Hole:215x115mm | Height:85mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "15"
+        },
+        {
+            "Product Code": "SLCR-1802",
+            "Watt": "36W (18*2)",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "3420 Lm",
+            "Beam": "38°",
+            "Size": "Outer:285x135mm | Hole:265x135mm | Height:105mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "15"
+        },
+        {
+            "Product Code": "SLCR-1203",
+            "Watt": "36W (12*3)",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "3420 Lm",
+            "Beam": "38°",
+            "Size": "Outer:310x135mm | Hole:315x115mm | Height:85mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "10"
+        },
+        {
+            "Product Code": "SLCR-1803",
+            "Watt": "54W (18*3)",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "5100 Lm",
+            "Beam": "38°",
+            "Size": "Outer:405x155mm | Hole:385x135mm | Height:105mm",
+            "LED": "Cree USA",
+            "Description": "COB Spot Light Non-Movable",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "10"
+        }
+    ]
+},
+{
+    "id": 19,
+    "title": "SL COB Spotlight - Matrix Series",
+    "images": ["assets/img/zz-indoor/sl-23-1.png",
+    "assets/img/zz-indoor/sl-23.png"
+],
+    "table-data": [
+        {
+            "Product Code": "SLMX-391",
+            "Watt": "5W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "475 Lm",
+            "Beam": "36°",
+            "Size": "Outer:50mm | Height:40mm",
+            "LED": "Cree USA Module",
+            "Description": "COB Spot Light",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "SLMX-392",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "950 Lm",
+            "Beam": "36°",
+            "Size": "Outer:50mm | Height:60mm",
+            "LED": "Cree USA Module",
+            "Description": "COB Spot Light",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        },
+        {
+            "Product Code": "SLMX-393",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumen": "1425 Lm",
+            "Beam": "36°",
+            "Size": "Outer:50mm | Height:70mm",
+            "LED": "Cree USA Module",
+            "Description": "COB Spot Light",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Qty": "20"
+        }
+    ]
+},
+{
+    "id": 20,
+    "title": "SL COB Spotlight Rings - Matrix Series",
+    "images": "assets/img/zz-indoor/sl-24.jpg",
+    "table-data": [
+        {
+            "Product Code": "MX1892C",
+            "UseFor": "5W/10W/15W",
+            "Description": "Non-movable + Deep",
+            "Color": "WH / ROSE / BK+WH",
+            "Size": "Outer:90mm | Hole:75mm | Height:40mm",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "MX1910XS",
+            "UseFor": "5W/10W/15W",
+            "Description": "Movable",
+            "Color": "BK / WH+BK / WH+ROSE METALLIC / WH",
+            "Size": "Outer:82mm | Hole:75mm | Height:52mm",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "MX1910PT",
+            "UseFor": "5W/10W/15W",
+            "Description": "Non-movable",
+            "Color": "WH+BK",
+            "Size": "Outer:85mm | Hole:75mm | Height:98mm",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "MX0118R",
+            "UseFor": "5W/10W/15W",
+            "Description": "Trimless",
+            "Color": "WH / BK / ROSE GOLD",
+            "Size": "Outer:85mm | Hole:75mm",
+            "Qty": "50"
+        },
+        {
+            "Product Code": "MX0119",
+            "UseFor": "5W/10W/15W",
+            "Description": "Non-Movable",
+            "Color": "WH / BK",
+            "Size": "Outer:85mm | Hole:75mm",
+            "Qty": "50"
+        }
+    ]
+},
+
+
+
+{
+    "id": 21,
+    "title": "SL Trimless COB Spotlight - Matrix Series",
+    "images": "assets/img/zz-indoor/sl-25.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLBY311*",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1200Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:80mm | Height:110mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        }
+    ]
+},
+{
+    "id": 22,
+    "title": "SL Narrow Trim COB Spotlight - Matrix Series",
+    "images": ["assets/img/zz-indoor/sl-26.jpg",
+"assets/img/zz-indoor/sl-26-1.jpg"],
+    "table-data": [
+        {
+            "Product Code": "SLMX-489",
+            "Watt": "1W",
+            "CCT": "3K / 4K",
+            "Lumens": "100Lm",
+            "Body Color": "WH/BK",
+            "Beam Angle": "24°",
+            "Description Specs": "COB Spot Light Movable",
+            "Size": "Outer:40mm | Height:35mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLMX-490",
+            "Watt": "3W",
+            "CCT": "3K / 4K",
+            "Lumens": "300Lm",
+            "Body Color": "WH/BK",
+            "Beam Angle": "24°",
+            "Description Specs": "COB Spot Light Movable",
+            "Size": "Outer:50mm | Hole:40mm | Height:45mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLMX-491",
+            "Watt": "5W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "500Lm",
+            "Body Color": "WH+GY",
+            "Beam Angle": "24°",
+            "Description Specs": "COB Spot Light Non-Movable",
+            "Size": "Outer:60mm | Hole:50mm | Height:90mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLMX-492",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1200Lm",
+            "Body Color": "WH+GY",
+            "Beam Angle": "24°",
+            "Description Specs": "COB Spot Light Non-Movable",
+            "Size": "Outer:75mm | Hole:65mm | Height:110mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLMX-493",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1800Lm",
+            "Body Color": "WH+GY",
+            "Beam Angle": "24°",
+            "Description Specs": "COB Spot Light Non-Movable",
+            "Size": "Outer:90mm | Hole:65mm | Height:110mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 23,
+    "title": "SL COB Spotlight Module Rings - Beyond Series",
+    "images": ["assets/img/zz-indoor/sl-27.jpg",
+    "assets/img/zz-indoor/sl-27-1.jpg",
+    "assets/img/zz-indoor/sl-27-2.jpg"
+],
+    "table-data": [
+        {
+            "Product Code": "SL01-2",
+            "Use For": "7W",
+            "Description": "Non-movable",
+            "Size": "Outer:76 x 24 mm | Hole: 65mm",
+            "Color": "White/Black",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL01-3",
+            "Use For": "12W",
+            "Description": "Non-movable",
+            "Size": "Outer:85 x 24 mm | Hole: 75mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        },
+        {
+            "Product Code": "SL01-4",
+            "Use For": "18W",
+            "Description": "Non-movable",
+            "Size": "Outer:115 x 24 mm | Hole: 100mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        },
+        {
+            "Product Code": "SL03-2",
+            "Use For": "7W",
+            "Description": "Movable",
+            "Size": "Outer:85 x 32 mm | Hole: 75mm",
+            "Color": "White/Black",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL03-3",
+            "Use For": "12W",
+            "Description": "Movable",
+            "Size": "Outer:100 x 32 mm | Hole: 90mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        },
+        {
+            "Product Code": "SL03-4",
+            "Use For": "18W",
+            "Description": "Movable",
+            "Size": "Outer:130 x 35 mm | Hole: 115mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        },
+        {
+            "Product Code": "SL05-2",
+            "Use For": "7W",
+            "Description": "Deep+movable",
+            "Size": "Outer:90 x 50 mm | Hole: 80mm",
+            "Color": "White/Black",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL05-3",
+            "Use For": "12W",
+            "Description": "Deep+movable",
+            "Size": "Outer:110 x 55 mm | Hole: 100mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        },
+        {
+            "Product Code": "SL05-4",
+            "Use For": "18W",
+            "Description": "Deep+movable",
+            "Size": "Outer:130 x 59 mm | Hole: 120mm",
+            "Color": "White/Black",
+            "Pcs/Box": "60"
+        }
+    ]
+},
+{
+    "id": 24,
+    "title": "SL COB Spotlight Modules - Beyond Series",
+    "images": ["assets/img/zz-indoor/sl-29.jpg",
+"assets/img/zz-indoor/sl-29-1.jpg"
+],
+    "table-data": [
+        {
+            "Code Product": "SL010735*",
+            "Watt": "7W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "665Lm",
+            "Angle Beam": "35°",
+            "Size": "Outer:52mm | Height:75mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": "<=0.6",
+            "Pcs/Box": "50"
+        },
+        {
+            "Code Product": "SL011235",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "1140Lm",
+            "Angle Beam": "24°",
+            "Size": "Outer:62mm | Height:86.5mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Code Product": "SL011835",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "1710Lm",
+            "Angle Beam": "24°",
+            "Size": "Outer:85mm | Height:105.5mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Code Product": "SL020724",
+            "Watt": "7W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "665Lm",
+            "Angle Beam": "35°",
+            "Size": "Outer:52mm | Height:63mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Code Product": "SL021224",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "1140Lm",
+            "Angle Beam": "24°",
+            "Size": "Outer:62mm | Height:75mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Code Product": "SL021824",
+            "Watt": "18W",
+            "CCT": "3K / 4K / 5K",
+            "Lumens": "1710Lm",
+            "Angle Beam": "24°",
+            "Size": "Outer:85mm | Height:88mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs/Box": "30"
+        }
+    ]
+},
+{
+    "id": 25,
+    "title": "SL Anti-Glare Surface Downlight - Beyond Series",
+    "images": ["assets/img/zz-indoor/sl-30.webp",
+    "assets/img/zz-indoor/sl-30-1.webp"
+],
+    "table-data": [
+        {
+            "Product Code": "BYSF306*",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1080Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:70x70mm | Height:100mm",
+            "Description Specs": "Surface COB Spot Light",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "BYSF307*",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1900Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:85x85mm | Height:88mm",
+            "Description Specs": "Surface COB Spot Light",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "BYSF309",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1080Lm",
+            "Beam Angle": "30°",
+            "Size": "Outer:75mm | Height:100mm",
+            "Description Specs": "Surface COB Spot Light",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "BYSF310*",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1900Lm",
+            "Beam Angle": "30°",
+            "Size": "Outer:95mm | Height:115mm",
+            "Description Specs": "Surface COB Spot Light",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        }
+    ]
+},
+{
+    "id": 26,
+    "title": "SL COB Directional Surface Light - Beyond Series",
+    "images": "assets/img/zz-indoor/ou-sl-73.webp",
+    "table-data": [
+        {
+            "Product Code": "SLBYSF333",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1200Lm",
+            "Beam Angle": "30°",
+            "Size": "180x65mm",
+            "Description Specs": "Surface Directional COB Light",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "-",
+            "Pcs/Box": "30"
+        }
+    ]
+},
+{
+    "id": 27,
+    "title": "SL COB Pendent Light - Beyond Series",
+    "images": "assets/img/zz-indoor/ou-sl-72.webp",
+    "table-data": [
+        {
+            "Product Code": "SLH07-200",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "700Lm",
+            "Beam Angle": "15°",
+            "Body Color": "BK / WH",
+            "Body Size": "25x200mm",
+            "LED Specs": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLH07-400",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "700Lm",
+            "Beam Angle": "15°",
+            "Body Color": "BK / WH",
+            "Body Size": "25x400mm",
+            "LED Specs": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLH12-200",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "1200Lm",
+            "Beam Angle": "15°",
+            "Body Color": "BK / WH",
+            "Body Size": "50x200mm",
+            "LED Specs": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLH12-400",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "1200Lm",
+            "Beam Angle": "15°",
+            "Body Color": "BK / WH",
+            "Body Size": "50x400mm",
+            "LED Specs": "Cree LISA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 28,
+    "title": "SL COB Reading Lamp",
+    "images": "assets/img/zz-indoor/ou-sl-71.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLBD 368",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Input": "220V AC",
+            "Beam Angle": "30°",
+            "Body Color": "BK / WH",
+            "Warranty": "1 Year"
+        }
+    ]
+},
+{
+    "id": 29,
+    "title": "SL COB Telescopic Spotlight - Beyond Series",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-69.jpg",
+        "assets/img/zz-indoor/ou-sl-70.jpg"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLCR203",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1500Lm",
+            "Input Voltage": "170-240V AC",
+            "Beam Angle": "24°",
+            "Body Color": "BK + WH",
+            "Size": "90mm | 115mm | 65mm | 180mm",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85"
+        },
+        {
+            "Product Code": "SLCR204*",
+            "Watt": "25W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2500Lm",
+            "Input Voltage": "170-240V AC",
+            "Beam Angle": "24°",
+            "Body Color": "BK + WH",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85"
+        }
+    ]
+},
+{
+    "id": 30,
+    "title": "SL COB Spotlight Modules - Beyond Series",
+    "images": "assets/img/zz-indoor/ou-sl-68.jpg",
+    "table-data": [
+        {
+            "Product Code": "BY591*",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "950Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:50mm | Height:55mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "BY592*",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1900Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:60mm | Height:75mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "BY593*",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2850Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:75mm | Height:85mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "BY594*",
+            "Watt": "40W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "3600Lm",
+            "Beam Angle": "24°",
+            "Size": "Outer:90mm | Height:100mm",
+            "Description Specs": "COB Spot Light Module",
+            "LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "30"
+        }
+    ]
+},
+{
+    "id": 31,
+    "title": "SL COB Spotlight Module Rings - Beyond Series",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-67.png",
+        "assets/img/zz-indoor/ou-sl-67-1.png",
+        "assets/img/zz-indoor/ou-sl-67-2.png",
+        "assets/img/zz-indoor/ou-sl-67-3.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLBY-02-10",
+            "Use For": "10W",
+            "Description": "Non-movable + Deep",
+            "Color": "White",
+            "Size": "85x40mm | Hole:75mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-02-20",
+            "Use For": "20W",
+            "Description": "Non-movable + Deep",
+            "Color": "White",
+            "Size": "110x45mm | Hole:90mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-02-30",
+            "Use For": "30W",
+            "Description": "Non-movable + Deep",
+            "Color": "White",
+            "Size": "135x50mm | Hole:120mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-02-40",
+            "Use For": "40W",
+            "Description": "Non-movable + Deep",
+            "Color": "White",
+            "Size": "140x60mm | Hole:115mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-05-10",
+            "Use For": "10W",
+            "Description": "Movable",
+            "Color": "WH+Matt Silver / BK+Chrome / WH+Chrome",
+            "Size": "90x30mm | Hole:75mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-05-20",
+            "Use For": "20W",
+            "Description": "Movable",
+            "Color": "WH+Matt Silver / BK+Chrome / WH+Chrome",
+            "Size": "115x35mm | Hole:100mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-05-30",
+            "Use For": "30W",
+            "Description": "Movable",
+            "Color": "WH+Matt Silver / BK+Chrome / WH+Chrome",
+            "Size": "140x35mm | Hole:110mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-05-40",
+            "Use For": "40W",
+            "Description": "Movable",
+            "Color": "WH+Matt Silver / BK+Chrome / WH+Chrome",
+            "Size": "165x35mm | Hole:130mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-07-10",
+            "Use For": "10W",
+            "Description": "Non-Movable",
+            "Color": "WH/BK",
+            "Size": "90x25mm | Hole:80mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-07-20",
+            "Use For": "20W",
+            "Description": "Non-Movable",
+            "Color": "WH/BK",
+            "Size": "115x25mm | Hole:105mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-07-30",
+            "Use For": "30W",
+            "Description": "Non-Movable",
+            "Color": "WH/BK",
+            "Size": "140x35mm | Hole:125mm",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLBY-07-40",
+            "Use For": "40W",
+            "Description": "Non-Movable",
+            "Color": "WH/BK",
+            "Size": "165x35mm | Hole:150mm",
+            "Pcs/Box": "100"
+        }
+    ]
+},
+{
+    "id": 32,
+    "title": "SL-X Series COB",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-66.webp",
+        "assets/img/zz-indoor/ou-sl-66-1.png",
+        "assets/img/zz-indoor/ou-sl-66-2.png",
+        "assets/img/zz-indoor/ou-sl-66-3.png",
+        "assets/img/zz-indoor/ou-sl-66-4.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SL X-421",
+            "Watt": "1W",
+            "CCT": "3K / 6K",
+            "Lumens": "90Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 35x35x20mm | Hole: 30x30mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL X-421",
+            "Watt": "3W",
+            "CCT": "3K / 6K",
+            "Lumens": "270Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "45°",
+            "Size": "Outer: 40x40x30mm | Hole: 35x35mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "3W",
+            "CCT": "3K / 6K",
+            "Lumens": "270Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 60x60x50mm | Hole: 50x50mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "6W",
+            "CCT": "3K / 6K",
+            "Lumens": "540Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 90x90x70mm | Hole: 75x75mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "9W",
+            "CCT": "3K / 6K",
+            "Lumens": "810Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 90x90x80mm | Hole: 75x75mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "16W",
+            "CCT": "3K / 6K",
+            "Lumens": "1440Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 105x105x85mm | Hole: 90x90mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "24W",
+            "CCT": "3K / 6K",
+            "Lumens": "2160Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 135x135x100mm | Hole: 120x120mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "30W",
+            "CCT": "3K / 6K",
+            "Lumens": "2700Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 160x160x110mm | Hole: 145x145mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL X-335",
+            "Watt": "40W",
+            "CCT": "3K / 6K",
+            "Lumens": "3600Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "35°",
+            "Size": "Outer: 160x160x120mm | Hole: 145x145mm",
+            "LED Specifications": "Epistar Chip",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 33,
+    "title": "SL COB Spotlight Smart Series",
+    "images": "assets/img/zz-indoor/ou-sl-65.png",
+    "table-data": [
+        {
+            "Product Code": "SL 003-38",
+            "Watt": "3W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "270Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "38°",
+            "Size": "Outer: 60x60mm | Hole: 50x50mm",
+            "LED Specifications": "COB (Hongli)",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL 006-38",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "550Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "45°",
+            "Size": "Outer: 80x80mm | Hole: 70x70mm",
+            "LED Specifications": "COB (Hongli)",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "≥.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SL 009-38",
+            "Watt": "9W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "810Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "45°",
+            "Size": "Outer: 105x105mm | Hole: 80x80mm",
+            "LED Specifications": "COB (Hongli)",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "50"
+        }
+    ]
+},
+{
+    "id": 34,
+    "title": "SL Zoom COB Spotlight",
+    "images": "assets/img/zz-indoor/ou-sl-63.png",
+    "table-data": [
+        {
+            "Product Code": "SL 006-51",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "540Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "45°",
+            "Size": "Outer: 98x98mm | Hole: 92x92mm",
+            "LED Specifications": "COB (Edison Taiwan)",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": "2.95",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 35,
+    "title": "SL Degree Adjust Spotlight",
+    "images": "assets/img/zz-indoor/ou-sl-64.png",
+    "table-data": [
+        {
+            "Product Code": "SL 006-52",
+            "Watt": "6W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "540Lm",
+            "Shape": "Round / Square",
+            "Beam Angle": "15° / 45°",
+            "Size": "Outer: 110x110mm | Hole: 100x100mm",
+            "LED Specifications": "COB (Edison Taiwan)",
+            "Warranty": "2 Year",
+            "CRI": ">80",
+            "PF": ">.65",
+            "Pcs/Box": "50"
+        }
+    ]
+},
+{
+    "id": 36,
+    "title": "SL LED Tube Light - Neon Series",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-62.png",
+        "assets/img/zz-indoor/ou-sl-62-1.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLT5SQ2F",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "800Lm",
+            "Shape": "Square",
+            "Beam Angle": "220°",
+            "Size": "2 Ft",
+            "LED Specifications": "Edison",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">= 0.95",
+            "Pcs. Box": "30"
+        },
+        {
+            "Product Code": "SLT5SQ",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1600Lm",
+            "Shape": "Square",
+            "Beam Angle": "220°",
+            "Size": "4 Ft",
+            "LED Specifications": "Edison",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">= 0.95",
+            "Pcs. Box": "25"
+        },
+        {
+            "Product Code": "SLTL360",
+            "Watt": "36W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2880Lm",
+            "Shape": "Square",
+            "Beam Angle": "220°",
+            "Size": "4 Ft",
+            "LED Specifications": "Sanan",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">= 0.95",
+            "Pcs. Box": "20"
+        }
+    ]
+},
+
+{
+    "id": 37,
+    "title": "SL-X Series Wall Lights",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-60.png",
+        "assets/img/zz-indoor/ou-sl-61.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SL X-WL-003",
+            "Watt": "3W",
+            "CCT": "3K / 6K",
+            "Lumens": "270 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "50"
+        },
+        {
+            "Product Code": "SL X-WL-006",
+            "Watt": "6W",
+            "CCT": "3K / 6K",
+            "Lumens": "540 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "50"
+        },
+        {
+            "Product Code": "SL X-WL-009",
+            "Watt": "9W",
+            "CCT": "3K / 6K",
+            "Lumens": "810 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "20"
+        },
+        {
+            "Product Code": "SL X-WL-016",
+            "Watt": "16W",
+            "CCT": "3K / 6K",
+            "Lumens": "1440 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "10"
+        },
+        {
+            "Product Code": "SL X-WL-024",
+            "Watt": "24W",
+            "CCT": "3K / 6K",
+            "Lumens": "2160 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "10"
+        },
+        {
+            "Product Code": "SL X-WL-030",
+            "Watt": "30W",
+            "CCT": "3K / 6K",
+            "Lumens": "2700 LM",
+            "Shape": "Round",
+            "Beam Angle": "35°",
+            "Size": "-",
+            "LED Specifications": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": ">80",
+            "PF": ">=0.95",
+            "Pcs.": "10"
+        }
+    ]
+},
+{
+    "id": 38,
+    "title": "SL Track Lights",
+    "images": [
+        "assets/img/track/tr-1.png",
+        "assets/img/track/tr-2.png",
+        "assets/img/track/tr-3.png",
+        "assets/img/track/tr-4.png",
+        "assets/img/track/tr-5.png",
+        "assets/img/track/tr-6.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLCRTR-10",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1000Lm",
+            "Beam Angle": "24°",
+            "LED Specifications": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLCRTR-16",
+            "Watt": "16W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1600Lm",
+            "Beam Angle": "24°",
+            "LED Specifications": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "12"
+        },
+        {
+            "Product Code": "SLCRTR-40",
+            "Watt": "40W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "4000Lm",
+            "Beam Angle": "24°",
+            "LED Specifications": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "12"
+        },
+        {
+            "Product Code": "SL 0020-TR-01",
+            "Watt": "20W",
+            "CCT": "3K / 6K",
+            "Lumens": "2200Lm",
+            "Beam Angle": "25°",
+            "LED Specifications": "COB EDISON",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL 0030-TR-25",
+            "Watt": "30W",
+            "CCT": "3K / 6K",
+            "Lumens": "3300Lm",
+            "Beam Angle": "45°",
+            "LED Specifications": "COB EDISON",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL 0030-34R",
+            "Watt": "30W",
+            "CCT": "3K / 6K",
+            "Lumens": "3300Lm",
+            "Beam Angle": "25°",
+            "LED Specifications": "COB EDISON",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 39,
+    "title": "SL Track Lights",
+    "images": [
+        "assets/img/track/tr-7.png",
+        "assets/img/track/tr-8.png",
+        "assets/img/track/tr-9.png",
+        "assets/img/track/tr-10.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLCRTR-10L",
+            "Watt": "10W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "950Lm",
+            "Beam Angle": "24°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=.95",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLCRTR-16L",
+            "Watt": "16W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1520Lm",
+            "Beam Angle": "24°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLCRTR-20L*",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1900Lm",
+            "Beam Angle": "24°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">=0.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL CRTR-30L",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2850Lm",
+            "Beam Angle": "24°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLTLSRCR2015",
+            "Watt": "15W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1425Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "SLTLSRCR2020",
+            "Watt": "20W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1900Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLTLSRCR2030",
+            "Watt": "30W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2850Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLWCTR-12",
+            "Watt": "12W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "1200Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLWCTR-22",
+            "Watt": "22W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "2200Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLWCTR-32",
+            "Watt": "32W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "3200Lm",
+            "Beam Angle": "36°",
+            "Body Color": "WH/BK",
+            "Specifications LED": "Cree USA",
+            "Warranty": "2 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 40,
+    "title": "SL Track Light Channels & Connectors",
+    "images": [
+        "assets/img/track/tr-11.png",
+        "assets/img/track/tr-11-1.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "CDMT",
+            "LENGTH": "1M / 2M",
+            "COLOR": "WH / BK",
+            "MATERIAL": "Aluminium wire"
+        },
+        {
+            "Product Code": "HDTM",
+            "LENGTH": "1M / 2M",
+            "COLOR": "WH / BK",
+            "MATERIAL": "Copper wire" 
+        }
+    ]
+},
+{
+    "id": 41,
+    "title": "SL Kitchen & Cabinet Lights",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-51.jpeg",
+        "assets/img/zz-indoor/ou-sl-57.png",
+        "assets/img/zz-indoor/ou-sl-52.webp",
+        "assets/img/zz-indoor/ou-sl-53.jpg",
+        "assets/img/zz-indoor/ou-sl-54.webp",
+        "assets/img/zz-indoor/ou-sl-55.png",
+        "assets/img/zz-indoor/ou-sl-56.webp",
+        "assets/img/zz-indoor/ou-sl-58.png",
+        "assets/img/zz-indoor/ou-sl-59.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLS003",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "Aluminium / PC Silver Grey",
+            "Size": "42x450mm | Height:16mm",
+            "Description": "Wardrobe Light with PIR motion sensor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLS018",
+            "Watt": "2.7W",
+            "CCT": "4K",
+            "Lumens": "220Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "Aluminium / PC Silver Grey",
+            "Size": "395x34x15mm",
+            "Description": "Wardrobe Light with door control sensor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLS006",
+            "Watt": "2W",
+            "CCT": "3K / 4K",
+            "Lumens": "180Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "Aluminium / PC Silver Grey",
+            "Size": "70x11.2mm",
+            "Description": "Surface Cabinet Light",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLS009",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "460Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "PC Aluminium",
+            "Size": "190x110x8.5mm",
+            "Description": "Surface Cabinet Light",
+            "Warranty": "2 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLS012",
+            "Watt": "3W",
+            "CCT": "3K / 4K",
+            "Lumens": "300Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "Aluminium / PC Silver Grey",
+            "Size": "89.2x69.4x32mm",
+            "Description": "COB Cabinet Light",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLS015",
+            "Watt": "2.4W",
+            "CCT": "3K / 4K",
+            "Lumens": "190Lm",
+            "Input Voltage": "12V DC",
+            "Finish/Material": "Aluminium / Aluminium / Silver Grey",
+            "Size": "50x5mm",
+            "Description": "Cabinet Light",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLX889",
+            "Watt": "3W",
+            "CCT": "3K / 6K",
+            "Lumens": "180Lm",
+            "Input Voltage": "220V AC",
+            "Finish/Material": "White",
+            "Size": "62x10mm",
+            "Description": "Cabinet Light with 2835 LED Blue",
+            "Warranty": "1 Year",
+            "Pcs/Box": "100"
+        },
+          {
+            "Product Code": "SL12-141",
+            "Watt": "3W",
+            "CCT": "3K / 6K / BLUE",
+            "Lumens": "180 Lm",
+            "Input Voltage": "220V AC",
+            "Body Color/Finish": "WH",
+            "Size": "62x10 mm",
+            "Description": "Cabinet light with PIR sensor, Double Door Control Sensor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL25862",
+            "Watt": "9W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "540 Lm",
+            "Input Voltage": "12V DC",
+            "Body Color/Finish": "Aluminium/PC",
+            "Size": "862x30x15 mm",
+            "Description": "Wardrobe light with double door sensor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 42,
+    "title": "SL Battery Operated Cabinet & Drawer Lights",
+    "images": [
+        "assets/img/zz-indoor/sns-a15.png",
+        "assets/img/zz-indoor/sns-a16.png",
+        "assets/img/zz-indoor/sns-a17.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLVS141",
+            "Watt": "1W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "75 Lm",
+            "Battery": "850 mAh, lithium, 5V DC",
+            "Body Color/Finish": "Silver / Aluminium+PC",
+            "Size": "100 x 35 x 22 mm",
+            "Description": "Drawer light with vibration sensor",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLPIR141",
+            "Watt": "1W",
+            "CCT": "3K / 4K / 6K",
+            "Lumens": "75 Lm",
+            "Battery": "850 mAh, lithium, 5V DC",
+            "Body Color/Finish": "Silver / Aluminium+PC",
+            "Size": "100 x 35 x 22 mm",
+            "Description": "Wardrobe light with PIR sensor",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLPIR141RD",
+            "Watt": "1W",
+            "CCT": "3K / 4K",
+            "Lumens": "115 Lm",
+            "Battery": "850 mAh, lithium, 5V DC",
+            "Body Color/Finish": "Silver / Aluminium+PC",
+            "Size": "70 x 22 mm",
+            "Description": "Cabinet light with PIR sensor",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 43,
+    "title": "SL Smart Sensors & Accessories",
+    "images": [
+        "assets/img/zz-indoor/sns-a.png",
+        "assets/img/zz-indoor/sns-a1.png",
+        "assets/img/zz-indoor/sns-a2.png",
+        "assets/img/zz-indoor/sns-a3.png",
+        "assets/img/zz-indoor/sns-a4.png",
+        "assets/img/zz-indoor/sns-a5.png",
+        "assets/img/zz-indoor/sns-a6.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLDS0286",
+            "Power Rating": "Input: 12-24VDC, Watt: 24/48W Max.",
+            "Range": "10cm",
+            "Finish/Material": "PC White",
+            "Size": "28x15x17mm",
+            "Description": "Door control sensor Surface Mounted",
+            "Warranty": "1 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLPIR0286",
+            "Power Rating": "Input: 12-24VDC, Watt: 24/48W Max.",
+            "Range": "1.5m",
+            "Finish/Material": "PC White",
+            "Size": "21.2x18x17mm",
+            "Description": "PIR Sensor Surface Mounted, Delay Time 40s",
+            "Warranty": "1 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SLMS0286",
+            "Power Rating": "Input: 12-24VDC, Watt: 24/48W Max.",
+            "Range": "10cm",
+            "Finish/Material": "PC White",
+            "Size": "28x15x17mm",
+            "Description": "Movement Sensor Surface Mounted",
+            "Warranty": "1 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL 1 Way Distributor",
+            "Power Rating": "-",
+            "Range": "-",
+            "Finish/Material": "PC White",
+            "Size": "With 1.5m cable",
+            "Description": "1 Way Distributor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL 1 Way Distributor Female",
+            "Power Rating": "-",
+            "Range": "-",
+            "Finish/Material": "PC White",
+            "Size": "With 1.5m cable",
+            "Description": "1 Way Distributor Female",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL 3 Way Distributor",
+            "Power Rating": "-",
+            "Range": "-",
+            "Finish/Material": "PC White",
+            "Size": "With 1m cable",
+            "Description": "3 Way Distributor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        },
+        {
+            "Product Code": "SL 6 Way Distributor",
+            "Power Rating": "-",
+            "Range": "-",
+            "Finish/Material": "PC White",
+            "Size": "With 1m cable",
+            "Description": "6 Way Distributor",
+            "Warranty": "2 Year",
+            "Pcs/Box": "100"
+        }
+    ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+    "id": 70,
+    "title": "SL Outdoor Lights - Cloudy Series",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-49.jpg",
+        "assets/img/zz-indoor/ou-sl-49-1.jpg",
+        "assets/img/zz-indoor/ou-sl-49-2.jpg",
+        "assets/img/zz-indoor/ou-sl-49-3.jpg"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SL0286",
+            "Watt": "3W*2=6W",
+            "CCT": "3K",
+            "Lumens": "540Lm",
+            "Body Color": "WH/BK",
+            "Effect": "Up & Down",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "CRI": "85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL4003",
+            "Watt": "4W 4-16W",
+            "CCT": "3K",
+            "Lumens": "1280Lm",
+            "Body Color": "WH/BK",
+            "Effect": "4 Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL101",
+            "Watt": "4W-14W",
+            "CCT": "3K",
+            "Lumens": "360Lm",
+            "Body Color": "DG/BK",
+            "Effect": "Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL102",
+            "Watt": "4W 2-8W",
+            "CCT": "3K",
+            "Lumens": "360x2-720Lm",
+            "Body Color": "DG/BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL301",
+            "Watt": "4W 2-8W",
+            "CCT": "3K",
+            "Lumens": "360x2-720Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL401",
+            "Watt": "4W 2-8W",
+            "CCT": "3K",
+            "Lumens": "360x2=720Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLSOT",
+            "Watt": "4W*2-BW",
+            "CCT": "3K",
+            "Lumens": "360x2-720Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "51601",
+            "Watt": "4W*2=8W",
+            "CCT": "3K",
+            "Lumens": "360x2=720Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "54901",
+            "Watt": "3W1-3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "GREY",
+            "Effect": "Up & Down & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL111",
+            "Watt": "1W*4=4W",
+            "CCT": "3K",
+            "Lumens": "90x4=360Lm",
+            "Body Color": "DG",
+            "Effect": "4 Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL222",
+            "Watt": "3W 1-3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "4 Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "51.333",
+            "Watt": "3W1-3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "6 Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL444",
+            "Watt": "3W*1=3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLS55",
+            "Watt": "3W*2-6W",
+            "CCT": "3K",
+            "Lumens": "270x2-540Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL1003",
+            "Watt": "3W+1=3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL999",
+            "Watt": "3W1-3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL201",
+            "Watt": "3W*2=6W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL202",
+            "Watt": "3W 2-6W",
+            "CCT": "3K",
+            "Lumens": "270x2-540Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL203",
+            "Watt": "3W*2=6W",
+            "CCT": "3K",
+            "Lumens": "540Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": "85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL204",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Effect": "Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 71,
+    "title": "SL Outdoor Lights - Cloudy Series",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-46.jpg",
+        "assets/img/zz-indoor/ou-sl-47.jpg",
+        "assets/img/zz-indoor/ou-sl-48.jpg",
+        "assets/img/zz-indoor/ou-sl-46-1.png",
+        "assets/img/zz-indoor/ou-sl-46-2.png",
+        "assets/img/zz-indoor/ou-sl-46-3.png",
+        "assets/img/zz-indoor/ou-sl-46-4.png",
+        "assets/img/zz-indoor/ou-sl-46-5.png"
+    ],
+    "table-data": [
+        {
+            "Product Code": "SLD305",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Body Color": "DG/BK",
+            "Effect": "35\" Down Light",
+            "LED Specs": "Bridgelux",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLD305-2",
+            "Watt": "5W*2=10W",
+            "CCT": "3K",
+            "Lumens": "800Lm",
+            "Body Color": "DG/BK",
+            "Effect": "35 Up & Down Light",
+            "LED Specs": "Bridgelux",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLD-312",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "960Lm",
+            "Body Color": "DG",
+            "Effect": "Up Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": "85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLD-312-2",
+            "Watt": "12X2=24W",
+            "CCT": "3K",
+            "Lumens": "1920Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLD-120",
+            "Watt": "20W",
+            "CCT": "3K",
+            "Lumens": "1600Lm",
+            "Body Color": "DG",
+            "Effect": "Up Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLD-120-2",
+            "Watt": "20X2=40W",
+            "CCT": "3K",
+            "Lumens": "3200Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": "85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL888",
+            "Watt": "3W*2=6W",
+            "CCT": "3K",
+            "Lumens": "270x2=540Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "51888",
+            "Watt": "5W*2=10W",
+            "CCT": "3K",
+            "Lumens": "450x2=900Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "5L888",
+            "Watt": "10W 2-20W",
+            "CCT": "3K",
+            "Lumens": "900x2-1800Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL888",
+            "Watt": "15W 2-30W",
+            "CCT": "3K",
+            "Lumens": "1350x2-2700Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL888",
+            "Watt": "30W 2-60W",
+            "CCT": "3K",
+            "Lumens": "2700x2-5400Lm",
+            "Body Color": "DG",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLCY-313",
+            "Watt": "2W*2=4W",
+            "CCT": "3K",
+            "Lumens": "90x2-180Lm",
+            "Body Color": "BK",
+            "Effect": "One Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLCY-314",
+            "Watt": "2W",
+            "CCT": "3K",
+            "Lumens": "90x1=90Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLCY-315",
+            "Watt": "2W",
+            "CCT": "3K",
+            "Lumens": "90Lm",
+            "Body Color": "BK",
+            "Effect": "One Way Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLCY-316",
+            "Watt": "4W",
+            "CCT": "3K",
+            "Lumens": "90*4=360Lm",
+            "Body Color": "BK",
+            "Effect": "Up & Down Light",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 72,
+    "title": "SL Foot Lights",
+    "images": ["assets/img/zz-indoor/ou-sl-43.jpg",
+"assets/img/zz-indoor/ou-sl-44.webp",
+"assets/img/zz-indoor/ou-sl-45.jpg"],
+    "table-data": [
+        {
+            "Product Code": "SLFL0401",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "WH/BK",
+            "Size": "210x40x30 mm",
+            "Effect": "Footlight",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL002",
+            "Watt": "2W",
+            "CCT": "3K",
+            "Shape": "RD",
+            "Body Color": "DG",
+            "Size": "100x55 mm",
+            "Effect": "Downlight/90°",
+            "IP Rating": "IP65",
+            "LED Specs": "Edison",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL123",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "92x62x41 mm",
+            "Effect": "Downlight/90°",
+            "IP Rating": "IP65",
+            "LED Specs": "Edison",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL125",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "150x62x41 mm",
+            "Effect": "Downlight/90°",
+            "IP Rating": "IP65",
+            "LED Specs": "Edison",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL003A",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "RD",
+            "Body Color": "WH",
+            "Size": "58x62 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Edison",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL0038",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "RD/SQ",
+            "Body Color": "WH",
+            "Size": "45x80 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Edison",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL8015",
+            "Watt": "1W",
+            "CCT": "3K",
+            "Shape": "SQ",
+            "Body Color": "WH/DG",
+            "Size": "60x60x45 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL801L",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "SQ",
+            "Body Color": "WH/DG",
+            "Size": "85x85x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL701FL",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "145x70x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL702FL",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "162x98x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL703FL",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "200x90x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "5L704FL",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "230x125x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLFL121",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "RD/SQ",
+            "Body Color": "Silver",
+            "Size": "75x75x80 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFL122",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "RD",
+            "Body Color": "Silver",
+            "Size": "75x75x57 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFL0402",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "SQ",
+            "Body Color": "WH",
+            "Size": "85x85x46 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFL705",
+            "Watt": "6*2=12W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "215x83x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFL706",
+            "Watt": "6*2=12W",
+            "CCT": "3K",
+            "Shape": "Rectangle",
+            "Body Color": "DG",
+            "Size": "215x83x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFL802",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "SQ",
+            "Body Color": "DG",
+            "Size": "85x85x46 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLFLSF122",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Shape": "SQ",
+            "Body Color": "DG",
+            "Size": "80x75x50 mm",
+            "Effect": "Foot Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 73,
+    "title": "SL Wall / Ground Burial Indoor Lights",
+    "images": "assets/img/zz-indoor/ou-sl-42.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLGB301",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD/SQ",
+            "Body Color": "SL",
+            "Size": "60x60x75 mm",
+            "Effect": "1 Way Light",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB302",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD/SQ",
+            "Body Color": "SL",
+            "Size": "60x60x75 mm",
+            "Effect": "2 Way Light",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB303",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD/SQ",
+            "Body Color": "SL",
+            "Size": "60x60x75 mm",
+            "Effect": "3 Way Light",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB304",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD/SQ",
+            "Body Color": "SL",
+            "Size": "60x60x75 mm",
+            "Effect": "4 Way Light",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB191",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "WT/BK",
+            "Size": "45x45x78 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB192",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "SL",
+            "Size": "45x45x78 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP54",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB193",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "SL",
+            "Size": "45x45x78 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLGB194",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "350Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "WH",
+            "Size": "55x55x80 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "50"
+        },
+        {
+            "Product Code": "SLPK-991",
+            "Watt": "1W",
+            "CCT": "3K",
+            "Lumens": "90Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "WH",
+            "Body Color": "",
+            "Size": "50x50x30 mm",
+            "Effect": "Wall Light Indoor",
+            "IP Rating": "IP44",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLPK-992",
+            "Watt": "2W",
+            "CCT": "3K",
+            "Lumens": "90x2=180Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "WH/BL+SL",
+            "Body Color": "",
+            "Size": "115x36x51 mm",
+            "Effect": "Wall Light Indoor",
+            "IP Rating": "IP44",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SLCY-4002",
+            "Watt": "2W",
+            "CCT": "3K",
+            "Lumens": "90x2=180Lm",
+            "Input Voltage": "",
+            "Shape": "WH",
+            "Body Color": "",
+            "Size": "60x60x50 mm",
+            "Effect": "Up & Down Light",
+            "IP Rating": "IP54",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+
+{
+    "id": 75,
+    "title": "SL Outdoor Wall / Ground Burial Lights",
+    "images": "assets/img/zz-indoor/ou-sl-41.jpg",
+    "table-data": [
+        {
+            "Product Code": "SLGB142",
+            "Watt": "1x1W",
+            "CCT": "3K",
+            "Lumens": "80Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "SS",
+            "Size": "45x70 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP67",
+            "LED Specs": "BRIDGELUX",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB362",
+            "Watt": "1x3W",
+            "CCT": "3K",
+            "Lumens": "150Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "SS/BK",
+            "Size": "62x85 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP67",
+            "LED Specs": "BRIDGELUX",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB375",
+            "Watt": "3x1W",
+            "CCT": "3K",
+            "Lumens": "225Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "SS",
+            "Size": "75x92 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP67",
+            "LED Specs": "BRIDGELUX",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB565",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RECT",
+            "Body Color": "Silver",
+            "Size": "200x80 mm",
+            "Effect": "Ground Burial",
+            "IP Rating": "IP67",
+            "LED Specs": "BRIDGELUX",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB901",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "560Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "DG",
+            "Size": "165x90 mm",
+            "Effect": "Ground Burial 1 Way",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB902",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "560Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "DG",
+            "Size": "165x90 mm",
+            "Effect": "Ground Burial 2 Way",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB903",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "720Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "DG",
+            "Size": "165x90 mm",
+            "Effect": "Ground Burial 3 Way",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB904",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "960Lm",
+            "Input Voltage": "220VAC",
+            "Shape": "RD",
+            "Body Color": "DG",
+            "Size": "165x90 mm",
+            "Effect": "Ground Burial 4 Way",
+            "IP Rating": "IP65",
+            "LED Specs": "CREE",
+            "Warranty": "1 Year",
+            "Pcs/Box": "21"
+        }
+    ]
+},
+{
+    "id": 76,
+    "title": "SL Parking Lights",
+    "images": ["assets/img/zz-indoor/ou-sl-35.jpg",
+    "assets/img/zz-indoor/ou-sl-36.jpg",
+    "assets/img/zz-indoor/ou-sl-37.jpg",
+    "assets/img/zz-indoor/ou-sl-38.jpg",
+    "assets/img/zz-indoor/ou-sl-38.jpg",
+    "assets/img/zz-indoor/ou-sl-39.jpg",
+    "assets/img/zz-indoor/ou-sl-39.webp",
+    "assets/img/zz-indoor/ou-sl-40.jpg"
+],
+    "table-data": [
+        {
+            "Product Code": "SLBK998",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "420Lm",
+            "Body Color": "DG",
+            "Size": "235x85x81 mm",
+            "Effect": "Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK9915",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "630Lm",
+            "Body Color": "BK",
+            "Size": "135x135x70 mm",
+            "Effect": "Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK991R",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "630Lm",
+            "Body Color": "BK",
+            "Size": "135x70 mm",
+            "Effect": "Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK992",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "540Lm",
+            "Body Color": "BK",
+            "Size": "150x82x50 mm",
+            "Effect": "Oval Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK993",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "1080Lm",
+            "Body Color": "BK",
+            "Size": "207x110x60 mm",
+            "Effect": "Oval Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK1994",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Lumens": "1620Lm",
+            "Body Color": "BK",
+            "Size": "197x160x57 mm",
+            "Effect": "Rectangle Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK1995",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Lumens": "1620Lm",
+            "Body Color": "BK",
+            "Size": "197x160x57 mm",
+            "Effect": "Rectangle Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLBK1996",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "540Lm",
+            "Body Color": "DG/BK",
+            "Size": "197x33 mm",
+            "Effect": "RD Bulkhead/120°",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 77,
+    "title": "SL Outdoor Surface COB Downlights",
+    "images": "assets/img/zz-indoor/ou-sl-34.webp",
+    "table-data": [
+        {
+            "Product Code": "SL777",
+            "Watt": "3W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "BK",
+            "Size": "65x128 mm",
+            "Effect": "Down Light (SF COB)",
+            "LED Specs": "Cree",
+            "Warranty": "2 Years",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL777",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Body Color": "BK",
+            "Size": "90x128 mm",
+            "Effect": "Down Light (SF COB)",
+            "LED Specs": "Cree",
+            "Warranty": "2 Years",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL777",
+            "Watt": "10W",
+            "CCT": "3K",
+            "Lumens": "900Lm",
+            "Body Color": "BK",
+            "Size": "113x130 mm",
+            "Effect": "Down Light (SF COB)",
+            "LED Specs": "Cree",
+            "Warranty": "2 Years",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL777",
+            "Watt": "15W",
+            "CCT": "3K",
+            "Lumens": "1350Lm",
+            "Body Color": "BK",
+            "Size": "145x130 mm",
+            "Effect": "Down Light (SF COB)",
+            "LED Specs": "Cree",
+            "Warranty": "2 Years",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL777",
+            "Watt": "20W",
+            "CCT": "3K",
+            "Lumens": "1800Lm",
+            "Body Color": "BK",
+            "Size": "145x130 mm",
+            "Effect": "Down Light (SF COB)",
+            "LED Specs": "Cree",
+            "Warranty": "2 Years",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 78,
+    "title": "SL Garden Lights",
+    "images": "assets/img/zz-indoor/ou-sl-33.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL1009",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Body Color": "BK",
+            "Size": "78x280 mm",
+            "Effect": "Spyke Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL2003",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Body Color": "BK",
+            "Size": "78x280 mm",
+            "Effect": "Spyke Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL2009",
+            "Watt": "5W",
+            "CCT": "3K",
+            "Lumens": "450Lm",
+            "Body Color": "BK",
+            "Size": "85x362 mm",
+            "Effect": "Spyke Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL3009",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "810Lm",
+            "Body Color": "BK",
+            "Size": "100x217 mm",
+            "Effect": "Spyke Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SLX308",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "700Lm",
+            "Body Color": "BK",
+            "Size": "70x260 mm",
+            "Effect": "Spyke Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL666",
+            "Watt": "10W",
+            "CCT": "3K",
+            "Lumens": "900Lm",
+            "Body Color": "DG",
+            "Size": "72x126 mm",
+            "Effect": "Narrow Beam Tree Light 10°",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL667",
+            "Watt": "15W",
+            "CCT": "3K",
+            "Lumens": "1200Lm",
+            "Body Color": "BK",
+            "Size": "90x133 mm",
+            "Effect": "Up Light Narrow Beam 10°",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL669",
+            "Watt": "27W",
+            "CCT": "3K",
+            "Lumens": "2160Lm",
+            "Body Color": "DG+BK",
+            "Size": "130x152 mm",
+            "Effect": "Up Light Narrow Beam 10°",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        }
+    ]
+},
+{
+    "id": 67,
+    "title": "SL Bollard Lights",
+    "images": "assets/img/zz-indoor/ou-sl-32.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL-BL-1110",
+            "Watt": "15W max",
+            "CCT": "3K",
+            "Lumens": "NA",
+            "Body Color": "DG",
+            "Size": "80x300 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "E-27",
+            "Warranty": "1 Year",
+            "Pcs/Box": "8"
+        },
+        {
+            "Product Code": "SL-BL-1114-1",
+            "Watt": "10W max",
+            "CCT": "3K",
+            "Lumens": "300Lm",
+            "Body Color": "DG",
+            "Size": "80x800 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "EDISON",
+            "Warranty": "1 Year",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL-BL-1114",
+            "Watt": "15W max",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "80x800 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "E-27",
+            "Warranty": "1 Year",
+            "Pcs/Box": "NA"
+        },
+        {
+            "Product Code": "SL-BL-1112",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "50x500 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "NA"
+        },
+        {
+            "Product Code": "SL-BL-1113",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "50x800 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "4"
+        },
+        {
+            "Product Code": "SL-BL-1115",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "80x800 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "9"
+        },
+        {
+            "Product Code": "SL-BL-1116",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "80x200 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL-BL-1111",
+            "Watt": "7W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "50x600 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Epistar",
+            "Warranty": "1 Year",
+            "Pcs/Box": "6"
+        },
+        {
+            "Product Code": "SL-BL-1117",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "120x300 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "6"
+        },
+        {
+            "Product Code": "SL-BL-1118",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "120x500 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "NA"
+        },
+        {
+            "Product Code": "SL-BL-1119",
+            "Watt": "9W",
+            "CCT": "3K",
+            "Lumens": "270Lm",
+            "Body Color": "DG",
+            "Size": "120x800 mm",
+            "Effect": "Bollard Light",
+            "IP Rating": "IP65",
+            "LED Specs": "OSRAM",
+            "Warranty": "1 Year",
+            "Pcs/Box": "4"
+        }
+    ]
+},
+{
+    "id": 68,
+    "title": "SL 360° Trick Light",
+    "images": "assets/img/zz-indoor/ou-sl-30.webp",
+    "table-data": [
+        {
+            "Product Code": "SL-888-9",
+            "Watt": "9W",
+            "CCT": "3K/RGB",
+            "Body Color": "Grey/Black/WH",
+            "Input Voltage": "220-240V AC",
+            "Beam Angle": "360°",
+            "Description": "Trick Light",
+            "IP Rating": "IP65",
+            "LED Specs": "Cree",
+            "Warranty/Life Span": "1 Year / 50000 Hours",
+            "CRI": ">85",
+            "Housing Material": "Aluminium"
+        }
+    ]
+},
+{
+    "id": 69,
+    "title": "SL Wall Washer",
+    "images": "assets/img/zz-indoor/ou-sl-50.jpg",
+    "table-data": [
+        {
+            "Product Code": "SL205WWR",
+            "Watt": "12W",
+            "CCT": "3K/Amber",
+            "Input Voltage": "220V AC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "1 Ft",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL206-SWWR",
+            "Watt": "24W",
+            "CCT": "3K/Amber",
+            "Input Voltage": "220V AC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "2 Ft",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL206WWR",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Input Voltage": "220V AC",
+            "Lumens": "1980Lm",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL207WWR",
+            "Watt": "24W",
+            "CCT": "3K",
+            "Input Voltage": "220V AC",
+            "Lumens": "2640Lm",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL208WWR",
+            "Watt": "36W",
+            "CCT": "3K/Amber",
+            "Input Voltage": "220V AC",
+            "Lumens": "3960Lm",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL113WWR",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Input Voltage": "12V DC",
+            "Lumens": "1980Lm",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "15"
+        },
+        {
+            "Product Code": "SL114WWR",
+            "Watt": "24W",
+            "CCT": "3K",
+            "Input Voltage": "12V DC",
+            "Lumens": "2640Lm",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "15"
+        },
+        {
+            "Product Code": "SL112WWR",
+            "Watt": "18W",
+            "CCT": "All Colors",
+            "Input Voltage": "12V DC",
+            "Lumens": "2340Lm",
+            "Size": "1 metre",
+            "LED Specs": "Edison",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "15"
+        },
+        {
+            "Product Code": "SL209WWR",
+            "Watt": "36W",
+            "CCT": "All Colors",
+            "Input Voltage": "220V AC",
+            "Lumens": "4680Lm",
+            "Size": "1 metre",
+            "LED Specs": "Edison",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL209WWR",
+            "Watt": "48W",
+            "CCT": "RGB",
+            "Input Voltage": "12V DC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "1 metre",
+            "LED Specs": "Edison",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL112WWR",
+            "Watt": "24W",
+            "CCT": "RGB",
+            "Input Voltage": "12V DC",
+            "Lumens": "840 Lm/Color",
+            "Size": "1 metre",
+            "LED Specs": "Edison",
+            "Grade": "IP66",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "15"
+        },
+        {
+            "Product Code": "SL210WWR",
+            "Watt": "12W",
+            "CCT": "RGB/DMX",
+            "Input Voltage": "24V DC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "1 Ft",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL211WWR",
+            "Watt": "24W",
+            "CCT": "RGB/DMX",
+            "Input Voltage": "24V DC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "2 Ft",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL212WWR",
+            "Watt": "36W",
+            "CCT": "RGB/DMX",
+            "Input Voltage": "24V DC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        },
+        {
+            "Product Code": "SL213WWR",
+            "Watt": "48W",
+            "CCT": "RGB/DMX",
+            "Input Voltage": "24V DC",
+            "Lumens": "1680 Lm/Color",
+            "Size": "1 metre",
+            "LED Specs": "OSRAM",
+            "Grade": "IP65",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "PF": ">.95",
+            "Pcs/Box": "10"
+        }
+    ]
+},
+{
+    "id": 79,
+    "title": "SL Underwater Lights",
+    "images": [
+        "assets/img/zz-indoor/ou-sl-20.png",
+    "assets/img/zz-indoor/ou-sl-21.png",
+    "assets/img/zz-indoor/ou-sl-22.png",
+    "assets/img/zz-indoor/ou-sl-22.png",
+    "assets/img/zz-indoor/ou-sl-23.png",
+    "assets/img/zz-indoor/ou-sl-24.png",
+    "assets/img/zz-indoor/ou-sl-24.png",
+    "assets/img/zz-indoor/ou-sl-20.png",
+    "assets/img/zz-indoor/ou-sl-21.png",
+    "assets/img/zz-indoor/ou-sl-22.png",
+    "assets/img/zz-indoor/ou-sl-22.png","assets/img/zz-indoor/ou-sl-25.png",
+    "assets/img/zz-indoor/ou-sl-26.png",
+    "assets/img/zz-indoor/ou-sl-27.png",
+    "assets/img/zz-indoor/ou-sl-28.png",
+    "assets/img/zz-indoor/ou-sl-18.png"],
+    "table-data": [
+        {
+            "Product Code": "SL5001-6",
+            "Watt": "6W",
+            "CCT": "3K",
+            "Lumens": "216 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "36"
+        },
+        {
+            "Product Code": "SL-5001-12",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "432 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "30"
+        },
+        {
+            "Product Code": "SL-5001-18",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Lumens": "670 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "12"
+        },
+        {
+            "Product Code": "SL-5001-24",
+            "Watt": "24W",
+            "CCT": "3K",
+            "Lumens": "870 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "12"
+        },
+        {
+            "Product Code": "SL-5002-12",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens": "432 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "20"
+        },
+        {
+            "Product Code": "SL-5002-18",
+            "Watt": "18W",
+            "CCT": "3K",
+            "Lumens": "652 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-5002-24",
+            "Watt": "24W",
+            "CCT": "3K",
+            "Lumens": "870 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-6001-6",
+            "Watt": "6W",
+            "CCT": "RGB",
+            "Lumens": "90 Lm/LED",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-6001-12",
+            "Watt": "12W",
+            "CCT": "RGB",
+            "Lumens": "90 Lm/LED",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-6001-18",
+            "Watt": "18W",
+            "CCT": "RGB",
+            "Lumens": "90 Lm/LED",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-6001-24",
+            "Watt": "24W",
+            "CCT": "RGB",
+            "Lumens": "90 Lm/LED",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-7001-6F",
+            "Watt": "6W",
+            "CCT": "FRGB",
+            "Lumens": "270 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        },
+        {
+            "Product Code": "SL-7001-12F",
+            "Watt": "12W",
+            "CCT": "FRGB",
+            "Lumens": "540 Lm",
+            "Input Voltage": "24V AC",
+            "Body Finish": "SS",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "16"
+        }
+    ]
+},
+{
+    "id": 80,
+    "title": "SL Underwater Lights",
+    "images": ["assets/img/zz-indoor/ou-sl-17.jpg"
+],
+    "table-data": [
+        {
+            "Product Code": "SLGB112-24",
+            "Watt": "12W",
+            "CCT": "3K",
+            "Lumens Per Watt": "90Lm",
+            "Input Voltage": "24VAC",
+            "Body Finish": "Silver",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB124-24",
+            "Watt": "24W",
+            "CCT": "3K",
+            "Lumens Per Watt": "90Lm",
+            "Input Voltage": "24VAC",
+            "Body Finish": "Silver",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB113-24",
+            "Watt": "12W",
+            "CCT": "RGB",
+            "Lumens Per Watt": "90Lm",
+            "Input Voltage": "24VAC",
+            "Body Finish": "Silver",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "21"
+        },
+        {
+            "Product Code": "SLGB125-24",
+            "Watt": "24W",
+            "CCT": "RGB",
+            "Lumens Per Watt": "90Lm",
+            "Input Voltage": "24VAC",
+            "Body Finish": "Silver",
+            "LED Specs": "BRIDGELUX",
+            "IP Rating": "IP68",
+            "Warranty": "1 Year",
+            "CRI": ">85",
+            "Pcs/Box": "21"
+        }
+    ]
+},
+{
+  "id": 81,
+  "title": "SL Drivers for Underwater Lights",
+  "images": "assets/img/zz-indoor/ou-sl-16.png",
+  "table-data": [
+    {
+      "Product": "SLAC-24-30WP",
+      "Wattage": "30W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    },
+    {
+      "Product": "SLAC-24-60WP",
+      "Wattage": "60W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    },
+    {
+      "Product": "SLAC-24-100WP",
+      "Wattage": "100W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    },
+    {
+      "Product": "SLAC-24-160WP",
+      "Wattage": "160W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    },
+    {
+      "Product": "SLAC-24-200WP",
+      "Wattage": "200W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    },
+    {
+      "Product": "SLAC-24-300WP",
+      "Wattage": "300W",
+      "Input Voltage": "170-270 V AC",
+      "Output Voltage": "24V AC",
+      "IP": "IP66",
+      "Warranty": "1 Year"
+    }
+  ]
+},
+{
+  "id": 82,
+  "title": "SL High Bay Lights",
+  "images": ["assets/img/zz-indoor/ou-sl-13.webp",
+  "assets/img/zz-indoor/ou-sl-13.webp",
+  "assets/img/zz-indoor/ou-sl-13.webp",
+"assets/img/zz-indoor/ou-sl-14.png",
+"assets/img/zz-indoor/ou-sl-15.png",
+"assets/img/zz-indoor/ou-sl-15.png",
+"assets/img/zz-indoor/ou-sl-15.png"],
+  "table-data": [
+    {
+      "Product Code": "SLEDHB30",
+      "Watt": "30W",
+      "CCT": "3K/6K",
+      "Lumens": "3300Lm",
+      "Size": "280x140mm",
+      "IP RATING": "IP44",
+      "LED Specs": "SMD 5630 Edison",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLEDHB50",
+      "Watt": "50W",
+      "CCT": "3K/6K",
+      "Lumens": "5500Lm",
+      "Size": "380x210mm",
+      "IP RATING": "IP44",
+      "LED Specs": "SMD 5630 Edison",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLEDHB100",
+      "Watt": "100W",
+      "CCT": "3K/6K",
+      "Lumens": "11000Lm",
+      "Size": "380x220mm",
+      "IP RATING": "IP44",
+      "LED Specs": "SMD 5630 Edison",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLPHHB150",
+      "Watt": "150W",
+      "CCT": "3K/6K",
+      "Lumens": "18000Lm",
+      "Size": "500x340mm",
+      "IP RATING": "IP44",
+      "LED Specs": "COB Philips SMD 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLUFO50",
+      "Watt": "50W",
+      "CCT": "3K/6K",
+      "Lumens": "5500Lm",
+      "Size": "NA",
+      "IP RATING": "IP44",
+      "LED Specs": "EDISON OSRAM",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLUFO100",
+      "Watt": "100W",
+      "CCT": "3K/6K",
+      "Lumens": "11000Lm",
+      "Size": "NA",
+      "IP RATING": "IP44",
+      "LED Specs": "EDISON OSRAM",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    },
+    {
+      "Product Code": "SLUFO150",
+      "Watt": "150W",
+      "CCT": "3K/6K",
+      "Lumens": "18000Lm",
+      "Size": "NA",
+      "IP RATING": "IP44",
+      "LED Specs": "EDISON OSRAM",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "1"
+    }
+  ]
+},
+{
+  "id": 83,
+  "title": "SL COB LED Flood Lights",
+  "images": [
+"assets/img/zz-indoor/ou-sl-12.webp",
+"assets/img/zz-indoor/ou-sl-12-1.webp"
+  ],
+  "table-data": [
+    {
+      "Product Code": "SL-FL Sam 50",
+      "Watt": "50W",
+      "CCT": "3K",
+      "Lumens": "5250 Lm",
+      "Beam Angle": "90°",
+      "Size": "240x180x80mm",
+      "IP Rating": "IP67",
+      "LED Specifications": "COB Samsung",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "5"
+    },
+    {
+      "Product Code": "SL-FL Sam 100",
+      "Watt": "100W",
+      "CCT": "3K",
+      "Lumens": "10500 Lm",
+      "Beam Angle": "90°",
+      "Size": "290x230x90mm",
+      "IP Rating": "IP67",
+      "LED Specifications": "COB Samsung",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "4"
+    },
+    {
+      "Product Code": "SL-FL Sam 150",
+      "Watt": "150W",
+      "CCT": "3K",
+      "Lumens": "15750 Lm",
+      "Beam Angle": "90°",
+      "Size": "380x290x105mm",
+      "IP Rating": "IP67",
+      "LED Specifications": "COB Samsung",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "2"
+    }
+  ]
+},
+{
+  "id": 84,
+  "title": "SL SMD LED Flood Lights - Nano Series",
+  "images": ["assets/img/zz-indoor/ou-sl-10.png",
+  "assets/img/zz-indoor/ou-sl-11.png"
+],
+  "table-data": [
+    {
+      "Product Code": "SL-FL-ED10",
+      "Watt": "10W",
+      "CCT": "3K",
+      "Lumens": "1100 Lm",
+      "Beam Angle": "120°",
+      "Size": "120x128x115mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "30"
+    },
+    {
+      "Product Code": "SL-FL-ED20",
+      "Watt": "20W",
+      "CCT": "3K",
+      "Lumens": "2200 Lm",
+      "Beam Angle": "120°",
+      "Size": "185x183x115mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "20"
+    },
+    {
+      "Product Code": "SL-FL-ED30",
+      "Watt": "30W",
+      "CCT": "3K",
+      "Lumens": "3300 Lm",
+      "Beam Angle": "120°",
+      "Size": "225x222x145mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "10"
+    },
+    {
+      "Product Code": "SL-FL-ED50",
+      "Watt": "50W",
+      "CCT": "3K",
+      "Lumens": "5500 Lm",
+      "Beam Angle": "120°",
+      "Size": "283x274x160mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "10"
+    },
+    {
+      "Product Code": "SL-FL-ED100",
+      "Watt": "100W",
+      "CCT": "3K",
+      "Lumens": "11000 Lm",
+      "Beam Angle": "120°",
+      "Size": "290x290x205mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "4"
+    },
+    {
+      "Product Code": "SL-FL-ED150",
+      "Watt": "150W",
+      "CCT": "3K",
+      "Lumens": "16500 Lm",
+      "Beam Angle": "120°",
+      "Size": "335x315x210mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "2"
+    },
+    {
+      "Product Code": "SL-FL-ED200",
+      "Watt": "200W",
+      "CCT": "3K",
+      "Lumens": "22000 Lm",
+      "Beam Angle": "120°",
+      "Size": "375x375x350mm",
+      "IP Rating": "IP66",
+      "LED Specifications": "5630 EDISON 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "2"
+    }
+  ]
+},
+{
+  "id": 85,
+  "title": "SL SMD LED Flood Lights - Blush Series",
+  "images": ["assets/img/zz-indoor/ou-sl-8.png",
+  "assets/img/zz-indoor/ou-sl-9.png"
+],
+  "table-data": [
+    {
+      "Product Code": "SLSMD 10 FL",
+      "Watt": "10W",
+      "CCT": "3K",
+      "Lumens": "1100 Lm",
+      "Beam Angle": "90°",
+      "Size": "117x125x75mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "40"
+    },
+    {
+      "Product Code": "SLSMD 20 FL",
+      "Watt": "20W",
+      "CCT": "3K",
+      "Lumens": "2200 Lm",
+      "Beam Angle": "90°",
+      "Size": "165x152x90mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "20"
+    },
+    {
+      "Product Code": "SLSMD 30 FL",
+      "Watt": "30W",
+      "CCT": "3K",
+      "Lumens": "3300 Lm",
+      "Beam Angle": "90°",
+      "Size": "165x152x90mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "20"
+    },
+    {
+      "Product Code": "SLSMD 50 FL",
+      "Watt": "50W",
+      "CCT": "3K",
+      "Lumens": "5500 Lm",
+      "Beam Angle": "90°",
+      "Size": "165x152x90mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "10"
+    },
+    {
+      "Product Code": "SLSMD 70 FL",
+      "Watt": "70W",
+      "CCT": "3K",
+      "Lumens": "7700 Lm",
+      "Beam Angle": "90°",
+      "Size": "165x152x90mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "10"
+    },
+    {
+      "Product Code": "SLSMD 100 FL",
+      "Watt": "100W",
+      "CCT": "3K",
+      "Lumens": "11000 Lm",
+      "Beam Angle": "90°",
+      "Size": "315x310x190mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "4"
+    },
+    {
+      "Product Code": "SLSMD 120 FL",
+      "Watt": "120W",
+      "CCT": "3K",
+      "Lumens": "13200 Lm",
+      "Beam Angle": "90°",
+      "Size": "315x310x190mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "4"
+    },
+    {
+      "Product Code": "SLSMD 150 FL",
+      "Watt": "150W",
+      "CCT": "3K",
+      "Lumens": "16500 Lm",
+      "Beam Angle": "90°",
+      "Size": "460x360x180mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "2"
+    },
+    {
+      "Product Code": "SLSMD 200 FL",
+      "Watt": "200W",
+      "CCT": "3K",
+      "Lumens": "22000 Lm",
+      "Beam Angle": "90°",
+      "Size": "450x390x190mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Epistar 6K",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "2"
+    }
+  ]
+},
+{
+  "id": 86,
+  "title": "SL Colored LED Flood Lights - Splash Series",
+  "images": "assets/img/zz-indoor/ou-sl-7.png",
+  "table-data": [
+    {
+      "Product Code": "SLFLSMD3030",
+      "Watt": "30W",
+      "CCT": "R/G/B",
+      "Lumens": "2700 Lm",
+      "Beam Angle": "120°",
+      "Size": "117x124x64mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Osram",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "20",
+      "MRP (Rs)": "1900.00"
+    },
+    {
+      "Product Code": "SLFLSMD5050",
+      "Watt": "50W",
+      "CCT": "R/G/B",
+      "Lumens": "4500 Lm",
+      "Beam Angle": "120°",
+      "Size": "206x147x66mm",
+      "IP Rating": "IP65",
+      "LED Specifications": "Osram",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs Box": "10",
+      "MRP (Rs)": ""
+    }
+  ]
+},
+{
+  "id": 87,
+  "title": "SL Edison LED Street Lights",
+  "images": "assets/img/zz-indoor/ou-sl-6.webp",
+  "table-data": [
+    {
+      "Product Code": "SLSTED12",
+      "Watt": "12W",
+      "CCT": "3K",
+      "Lumens": "1320Lm",
+      "Beam Angle": "120°",
+      "Size": "270x85 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "20"
+    },
+    {
+      "Product Code": "SLSTED20",
+      "Watt": "20W",
+      "CCT": "3K",
+      "Lumens": "2200Lm",
+      "Beam Angle": "120°",
+      "Size": "350x100 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "10"
+    },
+    {
+      "Product Code": "SLSTED30",
+      "Watt": "30W",
+      "CCT": "3K",
+      "Lumens": "3300Lm",
+      "Beam Angle": "120°",
+      "Size": "400x132 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "20"
+    },
+    {
+      "Product Code": "SLSTED50",
+      "Watt": "50W",
+      "CCT": "3K",
+      "Lumens": "5500Lm",
+      "Beam Angle": "120°",
+      "Size": "470x200 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "6"
+    },
+    {
+      "Product Code": "SLSTED80",
+      "Watt": "80W",
+      "CCT": "3K",
+      "Lumens": "8800Lm",
+      "Beam Angle": "120°",
+      "Size": "470x200 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "2"
+    }
+  ]
+},
+{
+  "id": 88,
+  "title": "SL Edison LED Street Lights",
+  "images": "assets/img/zz-indoor/oou-sl-5.jpg",
+  "table-data": [
+    {
+      "Product Code": "SLSTED12",
+      "Watt": "12W",
+      "CCT": "3K",
+      "Lumens": "1320Lm",
+      "Beam Angle": "120°",
+      "Size": "270x85 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "20"
+    },
+    {
+      "Product Code": "SLSTED20",
+      "Watt": "20W",
+      "CCT": "3K",
+      "Lumens": "2200Lm",
+      "Beam Angle": "120°",
+      "Size": "350x100 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "10"
+    },
+    {
+      "Product Code": "SLSTED30",
+      "Watt": "30W",
+      "CCT": "3K",
+      "Lumens": "3300Lm",
+      "Beam Angle": "120°",
+      "Size": "400x132 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "20"
+    },
+    {
+      "Product Code": "SLSTED50",
+      "Watt": "50W",
+      "CCT": "3K",
+      "Lumens": "5500Lm",
+      "Beam Angle": "120°",
+      "Size": "470x200 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "6"
+    },
+    {
+      "Product Code": "SLSTED80",
+      "Watt": "80W",
+      "CCT": "3K",
+      "Lumens": "8800Lm",
+      "Beam Angle": "120°",
+      "Size": "470x200 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "EDISON 6K 5630",
+      "Warranty": "2 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "2"
+    }
+  ]
+},
+{
+  "id": 89,
+  "title": "SL OSRAM LED Street Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-1.png",
+  "assets/img/zz-indoor/ou-sl-2.png",
+  "assets/img/zz-indoor/ou-sl-3.png",
+  "assets/img/zz-indoor/ou-sl-4.png"
+],
+  "table-data": [
+    {
+      "Product Code": "SL-ST12G",
+      "Watt": "12W",
+      "CCT": "6K",
+      "Lumens": "1320Lm",
+      "Beam Angle": "120°",
+      "Size": "350x97 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "16"
+    },
+    {
+      "Product Code": "SL-ST20F",
+      "Watt": "20W",
+      "CCT": "6K",
+      "Lumens": "2210Lm",
+      "Beam Angle": "120°",
+      "Size": "342x105 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "16"
+    },
+    {
+      "Product Code": "SL-ST30G",
+      "Watt": "30W",
+      "CCT": "6K",
+      "Lumens": "3310Lm",
+      "Beam Angle": "120°",
+      "Size": "375x140 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "10"
+    },
+    {
+      "Product Code": "SL-ST40F",
+      "Watt": "40W",
+      "CCT": "6K",
+      "Lumens": "4420Lm",
+      "Beam Angle": "120°",
+      "Size": "390x146 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "10"
+    },
+    {
+      "Product Code": "SL-ST50G",
+      "Watt": "50W",
+      "CCT": "6K",
+      "Lumens": "5532Lm",
+      "Beam Angle": "120°",
+      "Size": "375x140 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "8"
+    },
+    {
+      "Product Code": "SL-ST60F",
+      "Watt": "60W",
+      "CCT": "6K",
+      "Lumens": "6660Lm",
+      "Beam Angle": "120°",
+      "Size": "455x210 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "8"
+    },
+    {
+      "Product Code": "SL-ST70G",
+      "Watt": "72W",
+      "CCT": "6K",
+      "Lumens": "7710Lm",
+      "Beam Angle": "120°",
+      "Size": "460x205 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "8"
+    },
+    {
+      "Product Code": "SL-ST80F",
+      "Watt": "80W",
+      "CCT": "6K",
+      "Lumens": "8840Lm",
+      "Beam Angle": "120°",
+      "Size": "455x210 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "8"
+    },
+    {
+      "Product Code": "SL-ST100F",
+      "Watt": "100W",
+      "CCT": "6K",
+      "Lumens": "12600Lm",
+      "Beam Angle": "120°",
+      "Size": "455x210 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "4"
+    },
+    {
+      "Product Code": "SL-ST160F",
+      "Watt": "160W",
+      "CCT": "6K",
+      "Lumens": "17600Lm",
+      "Beam Angle": "120°",
+      "Size": "600x345 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "4"
+    },
+    {
+      "Product Code": "SL-ST200F",
+      "Watt": "200W",
+      "CCT": "6K",
+      "Lumens": "22000Lm",
+      "Beam Angle": "120°",
+      "Size": "600x345 mm",
+      "IP Rating": "IP66",
+      "LED Specs": "3030 OSRAM",
+      "Warranty": "1 Year",
+      "CRI": ">85",
+      "PF": "2.95",
+      "Pcs/Box": "4"
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": 100,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-100.png",
+    "assets/img/zz-indoor/ou-sl-100-1.png"
+  ],
+  "table-data": [
+    {
+      "Product Code": "SL-BL-305",
+      "Watt": "5W x 2 = 10W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-305",
+      "Watt": "5W x 3 = 15W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+  "id": 101,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-101.png",
+    "assets/img/zz-indoor/ou-sl-101-1.png"
+  ],
+  "table-data": [
+    {
+      "Product Code": "SL-BL-238",
+      "Watt": "6W x 2 = 12W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-238",
+      "Watt": "6W x 3 = 18W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+  "id": 102,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-102.png",
+    "assets/img/zz-indoor/ou-sl-102-1.png"
+  ],
+  "table-data": [
+    
+   
+    {
+      "Product Code": "SL-BL-313",
+      "Watt": "6W x 2 = 12W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-286",
+      "Watt": "4W x 3 = 12W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+  "id": 103,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-103.png",
+    "assets/img/zz-indoor/ou-sl-103-1.png"
+  ],
+  "table-data": [
+    {
+      "Product Code": "SL-BL-028",
+      "Watt": "9W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-028",
+      "Watt": "12W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+  "id": 104,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-104.png",
+    "assets/img/zz-indoor/ou-sl-104-1.png"
+  ],
+  "table-data": [
+    
+    {
+      "Product Code": "SL-BL-227",
+      "Watt": "5W x 2 = 10W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-227",
+      "Watt": "5W x 3 = 15W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+  "id": 105,
+  "title": "SL Basin Mirror Lights",
+  "images": [
+    "assets/img/zz-indoor/ou-sl-105.png",
+    "assets/img/zz-indoor/ou-sl-105-1.png"
+  ],
+  "table-data": [
+   
+    {
+      "Product Code": "SL-BL-236",
+      "Watt": "4W x 2 = 8W",
+      "CCT": "3K",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    },
+    {
+      "Product Code": "SL-BL-236",
+      "Watt": "4W x 3 = 12W",
+      "CCT": "3K-4K-6K (3 in 1 Step Light)",
+      "Input Voltage": "220-240 V AC",
+      "Finish": "SS",
+      "LED": "SANAN"
+    }
+  ]
+},
+{
+    "id": 106,
+    "title": "LED NEON LIGHT",
+    "images": [
+        "assets/img/zz-indoor/sl1616nbk.jpeg",
+        "assets/img/zz-indoor/sl1616nbk_2.jpeg"
+    ],
+    "table-data": [
+        {
+            "Model no": "SL 1616NBK",
+            "Size": "16 * 16mm",
+            "CCT": "3K / 4K / 6K",
+            "Body colour": "Black",
+            "IP rating": "IP65",
+            "Material": "Silicon UV coated"
+            
+        }
+    ]
+},
+{
+  "id": 107,
+  "title": "LINEAR LED PENDANT LIGHT",
+  "images": [
+    "assets/img/zz-indoor/sl-3870lb.jpg",
+    "assets/img/zz-indoor/sl-3870lb_2.jpg",
+    "assets/img/zz-indoor/sl-3870lb_3.jpeg"
+  ],
+  "table-data": [
+    {
+      "Model no": "SL 3870LB",
+      "Input": "150-265VAC",
+      "Output": "40 Watt",
+      "CCT": "3K / 4K",
+      "Body colour": "White / Black",
+      "Size": "L1200mm, W38mm, H70mm",
+      "MRP": "5000 Rs"
+    }
+  ]
+},
+{
+  "id": 108,
+  "title": "Commercial Premium Quality Tiltable COB Down Light",
+  "images": [
+    "assets/img/zz-indoor/slmx-4444.jpeg",
+     "assets/img/zz-indoor/slmx-4444_2.jpg"
+  ],
+  "table-data": [
+    {
+      "Model No": "SL MX 4444",
+      "Watt": "35W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 85-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "Black / White",
+      "Size": "D125 x H110 mm",
+      "Cut Out": "D110 mm",
+      "MRP": "2200 Rs"
+    }
+  ]
+},
+{
+  "id": 109,
+  "title": "Pin Hole COB Lights",
+  "images": [
+    "assets/img/zz-indoor/SL-MX -1368.jpeg",
+    "assets/img/zz-indoor/SL-MX -1368black.jpeg",
+     "assets/img/zz-indoor/SL-MX -1368_2.jpeg"
+  ],
+  "table-data": [
+    {
+      "Model No": "SL MX-1368",
+      "Watt": "10W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 220-240V",
+      "LED Brand": "Seoul P4",
+      "Shape": "Round",
+      "Body Colour": "White / Black",
+      "Size": "D62 x H70 mm",
+      "Cut Out": "D55 mm",
+      "MRP": "1250 Rs"
+    }
+  ]
+},
+{
+  "id": 110,
+  "title": "Trimless COB Deep Recessed Anti-Glare Light",
+  "images": [
+    "assets/img/zz-indoor/slmx-1320.jpeg"
+  ],
+  "table-data": [
+    {
+      "Model No": "SL MX 1320",
+      "Watt": "20W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 85-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "White",
+      "Size": "D128 x H125 mm",
+      "MRP": "2600 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 111,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1398m.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1398M",
+      "Watt": "10W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 165-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "White / Black / Gold",
+      "Size": "D49 x H77 mm",
+      "Cut Out": "D42 mm",
+      "MRP": "1200-1300 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 112,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1399m.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1399M",
+      "Watt": "15W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 165-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "White / Black / Gold",
+      "Size": "D59 x H97 mm",
+      "Cut Out": "D52 mm",
+      "MRP": "1600-1700 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 113,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1366.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1366",
+      "Watt": "6W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 165-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "Gold",
+      "Size": "D49.5 x H47 mm",
+      "Cut Out": "D35 mm",
+      "MRP": "900 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 114,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1367.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1367",
+      "Watt": "12W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 165-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "Gold",
+      "Size": "D49.5 x H75 mm",
+      "Cut Out": "D35 mm",
+      "MRP": "1200 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 1155,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1370.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1370",
+      "Watt": "8W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 165-265V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "Gold",
+      "Size": "D61 x H64.5 mm",
+      "Cut Out": "D50 mm",
+      "MRP": "1000 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 116,
+  "title": "Mini Series COB Down Light",
+  "images": ["assets/img/zz-indoor/slmx-1371.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 1371",
+      "Watt": "15W",
+      "CCT": "3000K / 4000K / 6000K",
+      "Input Voltage": "AC 220-240V",
+      "LED Brand": "CREE",
+      "Shape": "Round",
+      "Body Colour": "Gold",
+      "Size": "D74 x H74.5 mm",
+      "Cut Out": "D62 mm",
+      "MRP": "1400 Rs",
+      "Warranty": "2 Years"
+    }
+  ]
+},
+{
+  "id": 120,
+  "title": "Adoptable Ceiling Secure COB Down Light Frame",
+  "images": ["assets/img/zz-indoor/slmx-123-2white.jpeg", "assets/img/zz-indoor/slmx-123-2black.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 123-2",
+      "Reflector": "Mat White / Mat Black / Gun Black / Rose Gold",
+      "Reflector Finish": "Dark Chrome / Matt Gold / Rose Gold",
+      "Shape": "Oval",
+      "Body Colour": "White / Black",
+      "Size": "D170 x H85 mm",
+      "Cut Out": "160 x 75 mm",
+      "MRP": "900 Rs"
+    }
+  ]
+},
+{
+  "id": 121,
+  "title": "Adoptable Ceiling Secure COB Down Light Frame",
+  "images": ["assets/img/zz-indoor/slmx-125-1white.jpeg", "assets/img/zz-indoor/slmx-125-1black.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 125-1",
+      "Reflector": "Mat White / Mat Black / Gun Black / Rose Gold",
+      "Reflector Finish": "Dark Chrome / Matt Gold / Rose Gold",
+      "Shape": "Square",
+      "Body Colour": "White / Black",
+      "Size": "93 x 93 x H36 mm",
+      "Cut Out": "160 x 80 mm",
+      "MRP": "400 Rs"
+    }
+  ]
+},
+{
+  "id": 122,
+  "title": "Adoptable Ceiling Secure COB Down Light Frame",
+  "images": ["assets/img/zz-indoor/slmx-125-2black.jpeg", "assets/img/zz-indoor/slmx-125-2white.jpeg"],
+  "table-data": [
+    {
+      "Model No": "SL MX 125-2",
+      "Reflector": "Mat White / Mat Black / Gun Black / Rose Gold",
+      "Reflector Finish": "Dark Chrome / Matt Gold / Rose Gold",
+      "Shape": "Rectangle",
+      "Body Colour": "Matt Black / Matt White",
+      "Size": "D176 x 93 x H36 mm",
+      "Cut Out": "160 x 80 mm",
+      "MRP": "800 Rs"
+    }
+  ]
+},
+{
+    "id": 130,
+    "title": "Surface COB Cylinder Light",
+    "images": ["assets/img/zz-indoor/slbysf1312..jpeg", "assets/img/zz-indoor/slbysf1318.jpeg"],
+    "table-data": [
+      {
+        "Model No": "SL BY SF 1370",
+        "Watt": "7W",
+        "CCT": "3000K / 4000K / 5000K / 6000K",
+        "Input Voltage": "AC 165-265V",
+        "LED Brand": "CREE",
+        "Shape": "Round",
+        "Body Colour": "Copper / Black",
+        "Size": "D45 x H100 mm",
+        "MRP": "1200 Rs",
+        "Warranty": "2 Years"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Surface COB Cylinder Light",
+    "images": ["assets/img/zz-indoor/slbysf1312..jpeg", "assets/img/zz-indoor/slbysf1318.jpeg"],
+    "table-data": [
+      {
+        "Model No": "SL BY SF 1312",
+        "Watt": "12W",
+        "CCT": "2700K / 3000K / 4000K / 5000K / 6000K",
+        "Input Voltage": "AC 165-265V",
+        "LED Brand": "CREE",
+        "Shape": "Round",
+        "Body Colour": "Black / Gold",
+        "Size": "D55 x H120 mm",
+        "MRP": "1600 Rs",
+        "Warranty": "2 Years"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Surface COB Cylinder Light",
+    "images": ["assets/img/zz-indoor/slbysf1318.jpeg"],
+    "table-data": [
+      {
+        "Model No": "SL BY SF 1318",
+        "Watt": "18W",
+        "CCT": "2700K / 3000K / 4000K / 5000K / 6000K",
+        "Input Voltage": "AC 165-265V",
+        "LED Brand": "CREE",
+        "Shape": "Round",
+        "Body Colour": "Black / Gold",
+        "Size": "D65 x H140 mm",
+        "MRP": "2000 Rs",
+        "Warranty": "2 Years"
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

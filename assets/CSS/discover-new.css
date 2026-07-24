@@ -1,0 +1,143 @@
+/* ===== Top Banner ===== */
+.top-banner {
+    background: url('../img/banners/download.jpg') no-repeat center center/cover;
+    padding: 120px 20px;
+    color: rgb(251, 39, 39);
+    text-align: center;
+    border-radius: 10px;
+ height: 350px;
+}
+
+.top-banner .banner-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    
+}
+
+.top-banner .banner-subtitle {
+    font-size: 1.2rem;
+    font-weight: 400;
+   
+}
+
+/* ===== Discover Section ===== */
+.discover-products {
+    /* background-color: #f9f9f9; */
+    background: url('../img/background-img/banner.jpg');
+}
+
+.discover-products .section-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #333;
+}
+
+/* ✅ 4 Cards per Row on Desktop */
+.discover-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns */
+    gap: 25px;
+}
+
+@media (max-width: 991px) {
+    .discover-grid {
+        grid-template-columns: repeat(2, 1fr); /* Tablet = 2 cards */
+    }
+}
+
+@media (max-width: 576px) {
+    .discover-grid {
+        grid-template-columns: 1fr; /* Mobile = 1 card */
+    }
+}
+
+.discover-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    text-align: center;
+}
+
+.discover-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.discover-image {
+    position: relative;
+    width: 100%;
+    height: 220px; /* card height kam */
+    overflow: hidden;
+}
+
+.discover-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.4s ease;
+}
+
+.discover-image .hover-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.discover-card:hover .hover-image {
+    opacity: 1;
+}
+
+.discover-card:hover .default-image {
+    opacity: 0;
+}
+
+.discover-info {
+    padding: 12px;
+}
+
+.discover-name {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+.discover-model {
+    font-size: 0.85rem;
+    color: #666;
+}
+
+ /* Make link fill the card */
+    .discover-card-link {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      border-radius: 10px;
+      transition: all 0.3s ease;
+    }
+
+    .discover-card-link:hover {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    @media (max-width: 768px) {
+      .discover-card .discover-image {
+        height: 200px;
+      }
+       .discover-grid {
+        grid-template-columns: repeat(2, 1fr); /* Mobile = 2 cards */
+    }
+
+   .discover-products .section-title{
+         font-size: 1.9rem;
+    }
+    .discover-name{
+        font-size: 0.8rem;
+    }
+    }

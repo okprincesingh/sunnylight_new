@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* utility classes */
+a{
+    text-decoration: none !important;
+    list-style: none !important;
+}
+
+/* main banner about section */
+/* .about-banner img {
+  max-height: 450px;
+} */
+
+/* About company */
+.about-us-page{
+    background: linear-gradient(90deg, rgb(248, 248, 255) 55%,white 45% );
+}
+
+.aboutset-img img {
+  max-height: 400px;
+  /* max-width: 400px; */
+}
+
+/* Quality section*/
+.quality-points p span {
+  color: #43c553;
+  font-weight: 400;
+  margin-right: 5px;
+}
+
+.m-v-box{
+    background: linear-gradient(90deg, white 45%, rgb(248, 248, 255) 55%);
+}
+
+.why-choose-sec {
+  background-image: url("../img/background-img/banner.jpg");
+}
+
+.quality-sec{
+    background: linear-gradient(90deg, rgb(248, 248, 255) 55%,white 45% );
+}
+
+/* Contact Section */
+.contact-about {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 12px;
+  padding: 6px 0;
+}
+
+.contact-about p {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  padding: 10px;
+  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 6px;
+  transition: all 0.3s ease;
+  margin-bottom: 0 !important;
+}
+
+.contact-about p:hover {
+  background: #43c553;
+}
+
+.contact-about p i {
+  color: #43c553;
+  font-size: 16px;
+}
+
+.contact-about p:hover i {
+  color: white;
+}
+
+.contact-about a {
+  color: rgb(4, 23, 91);
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Why Choose Us Points */
+.content-points {
+  border-radius: 10px;
+  margin: 12px 0;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+  background: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.content-points:hover {
+  transform: translateY(-3px);
+  box-shadow: rgba(67, 197, 83, 0.3) 0px 6px 16px;
+}
+
+.content-points div {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 14px 25px;
+}
+
+.content-points p{
+    margin-bottom: 0 !important;
+
+}
+
+.content-points p i {
+  border: 2px solid #43c553;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #43c553;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.content-points:hover p i {
+  background: #43c553;
+  color: white;
+  transform: scale(1.1);
+}
+
+.content-points h5 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #04175b;
+}
+
+ .desktop-view-banner {
+    display: block;
+  }
+  .mobile-view-banner {
+    display: none;
+  }
+
+/* ================== Resonsiveness ============= */
+
+/* On mobile (<= 768px), switch */
+@media (max-width: 768px) {
+    /* utility classes */
+    h3{
+        font-size: 27px!important;
+    }
+    .container-fluid{
+        padding: 0;
+    }
+.my-width{
+    padding: 0 22px!important;
+}
+
+  .desktop-view-banner {
+    display: none;
+  }
+  .mobile-view-banner {
+    display: block;
+  }
+
+  /* backgroung color */
+.about-us-page, .m-v-box,.quality-sec{
+    background: rgb(240, 239, 239);
+}
+
+
+  /* Reverse order → banner first, content below */
+  .about-us-page .row,
+  .quality-sec .row {
+    flex-direction: column-reverse; /* content first → banner below */
+  }
+}

@@ -1,0 +1,64 @@
+[
+    {
+  "id": 50,
+  "title": "Indoor Single Logo Movable Projector Light",
+  "model": "20W Logo Projector",
+  "description": "The Indoor Single Logo Movable Projector Light is a compact and versatile projector designed to highlight logos with precision. It is ideal for branding in retail stores, exhibitions, and commercial interiors.",
+  "details": {
+    "Product Details": "Designed to project logos clearly on indoor surfaces, this projector ensures high-quality image projection with crisp clarity.",
+    "Premium Construction": "Built with a durable black body finish, offering a sleek and professional appearance.",
+    "Lighting Performance": "Equipped with a single lense and 20W power, it delivers sharp logo projection at 5000K color temperature.",
+    "Easy Installation": "Its lightweight design and AC 110-240V input allow flexible and hassle-free setup in various indoor environments.",
+    "Applications": "Perfect for shops, showrooms, exhibitions, and branding displays where movable logo projection is required."
+  },
+  "specifications": {
+    "Model Number": "20W Logo Projector",
+    "Watt": "20W",
+    "Lense": "1 Lense",
+    "Input": "AC 110-240V",
+    "Body Color": "Black",
+    "CCT": "5000K",
+    "IP Rating": "IP20",
+    "Warranty": "1 Year"
+  },
+  "images": [
+    "assets/img/Indoor-light-img/logo-projector/projector-use.png",
+    "assets/img/Indoor-light-img/logo-projector/logo-projector-use.png",
+    "assets/img/Indoor-light-img/logo-projector/projector3.jpg"
+  ]
+},
+{
+  "id": 51,
+  "title": "Outdoor 4 Logo Projector Movable Projector Light",
+  "model": "SL-LA10D-IP67",
+  "description": "The Outdoor 4 Logo Movable Projector Light is a powerful and versatile lighting solution designed for large-scale outdoor branding and promotions. With its 80W high-efficiency design and advanced 4-lens system, this projector ensures superior clarity and brightness, making it ideal for projecting multiple logos on building facades, event spaces, and commercial environments. Built with IP65-rated weatherproof housing, it is engineered to withstand rain, dust, and harsh outdoor conditions while maintaining stable performance.",
+  "details": {
+    "Product Details": "This projector is purpose-built for outdoor environments, offering professional-grade projection of up to four logos simultaneously. It is perfect for advertising, decorative lighting, and brand visibility in high-traffic outdoor locations.",
+    "Premium Construction": "Constructed from high-quality materials with a sleek black finish, the projector provides durability and a modern appearance. Its IP65 protection ensures resistance against dust and water, making it reliable for long-term outdoor installations.",
+    "Lighting Performance": "With an 80W output and a 5000K daylight color temperature, it delivers sharp and vivid projections. The 4-lens optical system enhances image quality, ensuring logos remain crisp and highly visible even at larger distances.",
+    "Easy Installation": "Supports AC 110-240V wide voltage input, making it compatible with various electrical setups. Its design allows flexible mounting options, including walls, poles, and ceilings, making installation quick and hassle-free.",
+    "Energy Efficiency": "Despite its powerful brightness, the projector is designed for energy savings, offering high performance with low power consumption, making it both cost-effective and eco-friendly.",
+    "Applications": "Widely used for hotels, shopping malls, corporate offices, exhibitions, outdoor events, stadiums, and building facades. It is the go-to solution for businesses and event organizers looking to create impactful branding with illuminated logo projections."
+  },
+  "specifications": {
+    "Model Number": "SL-LA10D-IP67",
+    "Watt": "80W",
+    "Lense": "4 Lense",
+    "Input": "AC 110-240V",
+    "Body Color": "Black",
+    "CCT": "5000K",
+    "IP Rating": "IP65",
+    "Warranty": "1 Year"
+  },
+  "images": [
+    "assets/img/Indoor-light-img/logo-projector/projector-light-img.jpg",
+    "assets/img/Indoor-light-img/logo-projector/projector1.jpeg",
+    "assets/img/Indoor-light-img/logo-projector/img-179.jpg"
+  ]
+}
+
+
+
+
+
+]

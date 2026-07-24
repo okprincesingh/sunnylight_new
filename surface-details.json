@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "title": "COB Surface Light",
+    "model": "SL MX SF 1115",
+    "description": "The SL MX SF 1115 is a compact 15W square COB surface light powered by premium Bridgelux LED technology. It is designed to deliver efficient and uniform lighting, ideal for modern residential and commercial applications. Its sleek design and durable body finish make it perfect for ceiling-mounted installations.",
+    "details": {
+      "Product Details": "15W surface-mounted COB light offering bright illumination with low power consumption.",
+      "Premium Construction": "Sturdy body available in White and Black finish, designed to complement modern interiors.",
+      "Lighting Performance": "Equipped with COB Bridgelux LED ensuring high brightness, energy efficiency, and long operational life.",
+      "Installation": "Square fixture with size 80 x 80 x H70 mm, suitable for easy surface mounting.",
+      "Applications": "Perfect for offices, living rooms, showrooms, retail spaces, and hospitality projects."
+    },
+    "specifications": {
+      "Model Number": "SL MX SF 1115",
+      "Wattage": "15W",
+      "LED": "COB Bridgelux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Square",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K",
+      "Size": "80 x 80 x H70 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-1-2.jpg",
+      "assets/img/surface/sur-1.jpg",
+      "assets/img/surface/sur-1-1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "COB Surface Light",
+    "model": "SL MX SF 1130",
+    "description": "The SL MX SF 1130 is a powerful 30W square COB surface light with COB Bridgelux LED technology, designed for larger spaces that require strong and uniform illumination. Its stylish design and reliable build make it an excellent choice for both commercial and residential environments.",
+    "details": {
+      "Product Details": "High-output 30W surface-mounted COB light designed for bright and wide illumination.",
+      "Premium Construction": "Durable square-shaped housing available in White and Black finish, ideal for modern interiors.",
+      "Lighting Performance": "Integrated with COB Bridgelux LED to deliver consistent brightness and superior energy efficiency.",
+      "Installation": "Compact yet powerful design with dimensions 120 x 120 x H80 mm, suitable for direct surface mounting.",
+      "Applications": "Widely used in retail stores, offices, hotels, galleries, and homes requiring strong general lighting."
+    },
+    "specifications": {
+      "Model Number": "SL MX SF 1130",
+      "Wattage": "30W",
+      "LED": "COB Bridgelux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Square",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K",
+      "Size": "120 x 120 x H80 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-2-1.jpg",
+      "assets/img/surface/sur-2.jpg",
+      "assets/img/surface/sur-2-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "SMD Surface Light",
+    "model": "SL DL SF 8",
+    "description": "The SL DL SF 8 is an 8W round SMD surface light featuring Bridgelux LED technology. Compact in design yet efficient in performance, it delivers bright, uniform, and energy-saving lighting suitable for modern spaces such as offices, homes, and retail environments.",
+    "details": {
+      "Product Details": "8W round surface-mounted light equipped with SMD Bridgelux LED for consistent brightness.",
+      "Premium Construction": "Available in White/Black finish, offering a sleek look that matches contemporary interiors.",
+      "Lighting Performance": "Delivers smooth and glare-free illumination with selectable color temperatures (3K/4K/6K).",
+      "Installation": "Round design with compact size 75 x H75 mm, ensuring hassle-free ceiling surface installation.",
+      "Applications": "Perfect for small rooms, corridors, residential spaces, and commercial setups requiring efficient lighting."
+    },
+    "specifications": {
+      "Model Number": "SL DL SF 8",
+      "Wattage": "8W",
+      "LED": "SMD Bridgelux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "75 x H75 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-4-use.jpg",
+      "assets/img/surface/sur-3.jpg",
+      "assets/img/surface/sur-4.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "SMD Surface Light",
+    "model": "SL DL SF 15",
+    "description": "The SL DL SF 15 is a 15W round surface light built with advanced SMD Bridgelux LED technology. It is designed to offer high brightness with low energy consumption, making it an ideal choice for both residential and professional lighting projects.",
+    "details": {
+      "Product Details": "15W round surface-mounted light designed with efficient SMD Bridgelux LED technology.",
+      "Premium Construction": "Durable housing with White/Black finish provides both strength and elegant design.",
+      "Lighting Performance": "Bright illumination with selectable 3K/4K/6K CCT options to suit different environments.",
+      "Installation": "Round shape with size 110 x H75 mm for easy mounting on ceilings or walls.",
+      "Applications": "Widely used in offices, retail stores, restaurants, and modern home interiors."
+    },
+    "specifications": {
+      "Model Number": "SL DL SF 15",
+      "Wattage": "15W",
+      "LED": "SMD Bridgelux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "110 x H75 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-4-1.webp",
+      "assets/img/surface/sur-3.jpg",
+      "assets/img/surface/sur-4.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "SMD Surface Light",
+    "model": "SL DL SF 24",
+    "description": "The SL DL SF 24 is a high-power 24W round surface-mounted light featuring reliable SMD Bridgelux LED technology. With its strong luminous output and energy efficiency, it is the perfect lighting solution for larger spaces needing uniform brightness and elegant style.",
+    "details": {
+      "Product Details": "24W round surface-mounted light with advanced SMD Bridgelux LED technology.",
+      "Premium Construction": "Robust body with White/Black finish designed to blend seamlessly with interiors.",
+      "Lighting Performance": "Delivers powerful and uniform illumination with adjustable 3K/4K/6K CCT options.",
+      "Installation": "Round fixture with size 125 x H75 mm, simple to install and maintain.",
+      "Applications": "Best suited for large living spaces, retail outlets, lobbies, hotels, and offices."
+    },
+    "specifications": {
+      "Model Number": "SL DL SF 24",
+      "Wattage": "24W",
+      "LED": "SMD Bridgelux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "125 x H75 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-4-2use.jpg",
+      "assets/img/surface/sur-3.jpg",
+      "assets/img/surface/sur-4.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 1107-2",
+    "description": "The SL BY SF 1107-2 is a high-performance 14W surface-mounted COB downlight equipped with dual USA CREE LEDs (2x7W). Engineered to deliver reliable and bright illumination, this compact fixture combines efficiency with durability. Its sleek rectangular profile allows it to blend seamlessly into modern architectural designs while ensuring glare-free lighting for maximum visual comfort.",
+    "details": {
+      "Product Details": "This 14W rectangular surface COB downlight is built with dual USA CREE LED chips that offer powerful illumination with minimal power consumption.",
+      "Premium Construction": "Designed with a strong and compact body, the fixture is available in both White and Black finishes, making it adaptable to a wide range of interiors.",
+      "Lighting Performance": "It ensures high lumen output, superior CRI for natural color rendering, and long-lasting energy efficiency. The COB optics provide a soft yet bright beam ideal for both functional and decorative use.",
+      "Installation": "Sized at 110 x 55 x 56 mm, this compact fixture is easy to surface-mount on ceilings without complex tools or modifications.",
+      "Applications": "Perfect for retail stores, showrooms, offices, art displays, and residential interiors where a balance of modern aesthetics and powerful illumination is required."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 1107-2",
+      "Wattage": "14W (2x7W)",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Rectangle",
+      "Body Color": "WH/BK",
+      "Size": "110 x 55 x 56 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-7-use2.webp",
+      "assets/img/surface/sur-5.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 1112-2",
+    "description": "The SL BY SF 1112-2 is a premium 24W rectangular surface COB downlight powered by dual USA CREE LEDs (2x12W). This model is designed for spaces that require both high brightness and refined style. Its strong housing and reliable LED technology make it an excellent option for professional projects where long-term performance is as important as aesthetics.",
+    "details": {
+      "Product Details": "A 24W surface COB downlight built with dual USA CREE LED chips, delivering powerful light suitable for medium to large spaces.",
+      "Premium Construction": "Manufactured with a robust housing in White/Black finish, ensuring excellent durability and matching any modern design theme.",
+      "Lighting Performance": "It offers stable light output with excellent beam quality, ensuring visual comfort without flickering or uneven distribution.",
+      "Installation": "Compact size of 140 x 70 x 70 mm with a simple surface-mounting design makes it quick to install and service.",
+      "Applications": "Widely used in offices, luxury residences, hotels, galleries, and retail spaces where efficient and bright lighting is required."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 1112-2",
+      "Wattage": "24W (2x12W)",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Rectangle",
+      "Body Color": "WH/BK",
+      "Size": "140 x 70 x 70 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/susr-use-7.jpg",
+      "assets/img/surface/sur-6.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 332",
+    "description": "The SL BY SF 332 is a 12W round surface COB downlight that combines timeless design with modern LED efficiency. Powered by advanced USA CREE technology, this fixture ensures bright, even illumination with long-lasting reliability. Its compact round structure and stylish finish make it suitable for a variety of spaces, ranging from elegant residences to high-end retail outlets.",
+    "details": {
+      "Product Details": "A 12W round COB downlight designed for surface mounting, using high-quality USA CREE LED technology for superior brightness and consistency.",
+      "Premium Construction": "Available in a stylish White/Black body, this fixture has a durable structure that is built to last in professional and home environments.",
+      "Lighting Performance": "It delivers high lumen efficiency with excellent CRI values, ensuring that colors appear natural and vibrant under its illumination.",
+      "Installation": "Measuring 100 x 100 mm, the round design allows quick installation on various ceiling types without complex setup.",
+      "Applications": "Perfect for living rooms, dining spaces, galleries, retail outlets, showrooms, and other premium interiors where design and performance must go hand in hand."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 332",
+      "Wattage": "12W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "Size": "100 x 100 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use-3.jpg",
+      "assets/img/surface/sur-7.jpg",
+      "assets/img/surface/sur-use-5.jpg"
+      
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 308",
+    "description": "The SL BY SF 308 is a 7W round surface COB downlight that delivers bright, uniform illumination while maintaining energy efficiency. Built with advanced USA CREE LED technology, this fixture ensures excellent light quality, high durability, and long-lasting performance. Its compact round design and premium finish make it an ideal choice for both residential and commercial spaces where aesthetics and functionality are equally important.",
+    "details": {
+      "Product Details": "A 7W round surface COB downlight crafted with advanced USA CREE LED technology, offering consistent brightness and superior efficiency for modern lighting needs.",
+      "Premium Construction": "Designed with a durable White/Black body finish that not only enhances aesthetics but also ensures long-term performance in professional and home interiors.",
+      "Lighting Performance": "Engineered for high lumen output and excellent color rendering (CRI), ensuring natural and vibrant appearance of objects under its light.",
+      "Installation": "With its compact size of 59 x 77 mm, the downlight is easy to install on a variety of ceiling types without the need for complex fittings.",
+      "Applications": "Best suited for residential spaces like bedrooms, living rooms, and dining areas, as well as commercial environments such as galleries, boutiques, and retail showrooms."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 308",
+      "Wattage": "7W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "Size": "59 x 77 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-13use.webp",
+      "assets/img/surface/sur-11.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 312",
+    "description": "The SL BY SF 312 is a powerful 12W round surface COB downlight that combines contemporary styling with outstanding lighting performance. Powered by high-quality USA CREE LED technology, it ensures uniform illumination, high efficiency, and excellent color rendering. Its durable construction and compact form make it a perfect fit for modern interiors where both design and functionality are key.",
+    "details": {
+      "Product Details": "A 12W COB surface-mounted downlight featuring advanced USA CREE LED technology, engineered for superior brightness and consistency in various lighting setups.",
+      "Premium Construction": "Available in an elegant White/Black finish, this fixture is designed with a strong build that ensures durability and long-lasting operation in diverse settings.",
+      "Lighting Performance": "Delivers outstanding lumen efficiency with excellent CRI values, ensuring that colors remain accurate, vivid, and pleasing to the eye.",
+      "Installation": "With a size of 73 x 91 mm, this downlight is quick and simple to install, making it a practical solution for architects, designers, and homeowners.",
+      "Applications": "Perfect for enhancing the ambience of living rooms, dining areas, office spaces, art galleries, and premium showrooms where professional-grade lighting is required."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 312",
+      "Wattage": "12W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "Size": "73 x 91 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use14.png",
+      "assets/img/surface/sur-12.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 318",
+    "description": "The SL BY SF 318 is a high-performance 18W round surface COB downlight built for modern interiors that demand both style and illumination excellence. Utilizing USA CREE LED technology, it provides superior brightness, long-lasting reliability, and energy efficiency. Its strong construction and versatile design make it a professional-grade lighting solution for homes, retail spaces, and premium establishments.",
+    "details": {
+      "Product Details": "An 18W round COB downlight for surface mounting, equipped with USA CREE LED for maximum brightness, consistency, and reliability.",
+      "Premium Construction": "Crafted with a stylish White/Black body that enhances the overall interior appeal while providing structural durability for long-term usage.",
+      "Lighting Performance": "Engineered for strong lumen efficiency with excellent CRI levels, making it perfect for spaces that require natural, vibrant, and accurate color rendering.",
+      "Installation": "Measuring 88 x 106 mm, the fixture supports a hassle-free ceiling installation, saving time while ensuring a neat, professional finish.",
+      "Applications": "An ideal lighting solution for high-end living spaces, galleries, luxury retail stores, showrooms, and office environments where premium design and performance are essential."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 318",
+      "Wattage": "18W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "Size": "88 x 106 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+       "assets/img/surface/sur-use-7.jpg",
+      "assets/img/surface/sur-12-1.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 1103",
+    "description": "The SL BY SF 1103 is a compact 3W round surface COB downlight designed for energy-efficient, high-quality illumination. Built with USA CREE LED technology, it delivers bright, uniform light while maintaining low power consumption. With its sleek and durable design, it is perfect for small-scale lighting applications where style and efficiency are both important.",
+    "details": {
+      "Product Details": "A 3W round surface COB downlight featuring advanced USA CREE LED for reliable brightness and consistent light output.",
+      "Premium Construction": "Durable White/Black body finish that blends seamlessly into modern interiors while offering long-term performance.",
+      "Lighting Performance": "Provides high CRI values and natural color rendering, ensuring spaces are well-lit and colors appear vibrant.",
+      "Installation": "Measuring 46 x 57 mm, the small and compact design allows for easy installation in ceilings of any type.",
+      "Applications": "Ideal for small residential spaces, corridors, cabinets, and compact commercial areas where subtle, high-quality lighting is desired."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 1103",
+      "Wattage": "3W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "46 x 57 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+     "assets/img/surface/sur-use9.jpg",
+     "assets/img/surface/sur-14.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 1104",
+    "description": "The SL BY SF 1104 is a 7W round surface COB downlight that combines compact design with high-efficiency lighting. Powered by USA CREE LEDs, it ensures bright, consistent illumination suitable for residential and professional spaces. Its durable body and modern design make it a reliable choice for spaces requiring focused, elegant lighting.",
+    "details": {
+      "Product Details": "A 7W COB downlight with surface mounting, using USA CREE LED for energy-efficient, bright, and stable light output.",
+      "Premium Construction": "White/Black body finish designed for durability, aesthetics, and long-lasting usage in varied environments.",
+      "Lighting Performance": "High CRI with excellent color reproduction ensures objects and interiors look natural and vibrant under its light.",
+      "Installation": "Compact size of 55 x 60 mm allows hassle-free installation on a variety of ceiling types.",
+      "Applications": "Perfect for bedrooms, living rooms, corridors, retail shelves, and boutique lighting setups where professional quality is required."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 1104",
+      "Wattage": "7W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "55 x 60 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use9.jpg",
+      "assets/img/surface/sur-15.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 1105",
+    "description": "The SL BY SF 1105 is a 12W round surface COB downlight offering powerful and efficient illumination. Built with premium USA CREE LED technology, it provides high lumen output with excellent color rendering. Its robust construction and compact design make it suitable for both residential and commercial spaces, providing versatile, high-quality lighting.",
+    "details": {
+      "Product Details": "A 12W round COB downlight for surface mounting, featuring USA CREE LEDs for bright, uniform, and long-lasting light.",
+      "Premium Construction": "White/Black body finish with a durable build ensures lasting performance while complementing modern interiors.",
+      "Lighting Performance": "Delivers high CRI, vivid colors, and stable lighting for spaces that require both functional and aesthetic illumination.",
+      "Installation": "Measuring 68 x 68 mm, designed for quick and straightforward ceiling installation.",
+      "Applications": "Ideal for living rooms, dining spaces, offices, galleries, and retail outlets where professional-grade lighting is essential."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 1105",
+      "Wattage": "12W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "68 x 68 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use9.jpg",
+      "assets/img/surface/sur-16.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 212",
+    "description": "The SL BY SF 212 is a 12W round surface COB downlight featuring COB BridgeLux LED technology for bright, efficient illumination. Designed for both residential and commercial spaces, it offers excellent color rendering and uniform light distribution. Its durable White/Black body and compact design make it a reliable and aesthetically pleasing lighting solution.",
+    "details": {
+      "Product Details": "A 12W round COB downlight using high-quality COB BridgeLux LEDs for consistent brightness and efficiency in any setting.",
+      "Premium Construction": "Durable White/Black body finish ensures long-lasting performance while complementing modern interior designs.",
+      "Lighting Performance": "Delivers high lumen output with excellent CRI, producing natural and vibrant color rendering.",
+      "Installation": "Compact size of 75 x 95 mm allows for quick and easy ceiling installation without complex fittings.",
+      "Applications": "Ideal for living rooms, dining areas, offices, galleries, and retail outlets requiring efficient and premium lighting."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 212",
+      "Wattage": "12W",
+      "LED": "COB BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "75 x 95 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use19.webp",
+      "assets/img/surface/sur-17.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 220",
+    "description": "The SL BY SF 220 is a 20W round surface COB downlight equipped with COB BridgeLux LED technology. It provides powerful, uniform illumination suitable for larger spaces while maintaining energy efficiency. Its sleek design and robust construction ensure long-lasting use in both commercial and residential interiors.",
+    "details": {
+      "Product Details": "A 20W round COB downlight featuring COB BridgeLux LEDs for bright, stable, and energy-efficient lighting.",
+      "Premium Construction": "White/Black body with a strong build that offers durability and modern aesthetics for professional installations.",
+      "Lighting Performance": "High lumen output and excellent CRI values deliver vibrant, natural lighting across a variety of environments.",
+      "Installation": "Sized at 100 x 120 mm, this fixture supports easy mounting on ceilings without complex setup.",
+      "Applications": "Perfect for larger rooms, offices, retail stores, galleries, and showrooms that require high-performance lighting solutions."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 220",
+      "Wattage": "20W",
+      "LED": "COB BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "100 x 120 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      "assets/img/surface/sur-use20.webp",
+      "assets/img/surface/sur-18.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Surface COB Downlight",
+    "model": "SL BY SF 230",
+    "description": "The SL BY SF 230 is a 30W round surface COB downlight featuring advanced COB BridgeLux LED technology. It provides high-intensity, uniform illumination suitable for premium residential and commercial spaces. Its White/Black body ensures durability and adds a sleek aesthetic touch to any interior environment.",
+    "details": {
+      "Product Details": "A 30W round COB downlight using COB BridgeLux LEDs to deliver bright, reliable, and energy-efficient lighting.",
+      "Premium Construction": "Robust White/Black body construction ensures long-term durability while maintaining modern design aesthetics.",
+      "Lighting Performance": "High lumen output and superior CRI guarantee natural, vibrant color rendering in any space.",
+      "Installation": "Measuring 115 x 125 mm, the fixture supports straightforward ceiling installation for professional and home environments.",
+      "Applications": "Ideal for large living rooms, offices, showrooms, galleries, and retail spaces requiring high-performance lighting solutions."
+    },
+    "specifications": {
+      "Model Number": "SL BY SF 230",
+      "Wattage": "30W",
+      "LED": "COB BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "115 x 125 mm",
+      "Warranty": "2 Years"
+    },
+    "images": [
+      
+      "assets/img/surface/sur-use19.webp",
+      "assets/img/surface/sur-19.jpg"
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

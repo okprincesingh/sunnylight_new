@@ -1,0 +1,26 @@
+# Disable PHP execution
+<FilesMatch "\.(php|php5|php7|php8|phtml|phar)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Block script files
+<FilesMatch "\.(py|cgi|pl|exe|sh|bash)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Disable directory listing
+Options -Indexes
+
+# Allow only safe file types
+<FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|css|js|woff|woff2|ttf|eot|ico)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Block hidden files
+<FilesMatch "^\.">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>

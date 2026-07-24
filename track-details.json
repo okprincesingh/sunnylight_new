@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "Track Light",
+    "model": "SL CR TR 3012",
+    "description": "The SL CR TR 3012 is a 12W rectangular track light featuring OSRAM LED technology. It provides focused, bright illumination with high efficiency and precision, making it ideal for galleries, retail spaces, and professional environments. Its sleek black body and modern design blend seamlessly into contemporary interiors.",
+    "details": {
+      "Product Details": "A 12W rectangular track light with OSRAM LED, designed for energy-efficient, bright, and focused illumination.",
+      "Premium Construction": "Durable black body construction ensures long-lasting performance and a professional appearance.",
+      "Lighting Performance": "Provides a 25° beam angle for concentrated lighting, delivering high CRI for natural color rendering.",
+      "Installation": "Compatible with standard track systems for easy installation and adjustment of light direction.",
+      "Applications": "Perfect for galleries, retail outlets, showrooms, and office spaces requiring precise and high-quality lighting."
+    },
+    "specifications": {
+      "Model Number": "SL CR TR 3012",
+      "Wattage": "12W",
+      "LED": "OSRAM",
+      "Input Voltage": "185V-240V",
+      "Shape": "Rectangle",
+      "Body Color": "Black",
+      "CCT": "3K/4K",
+      "Beam Angle": "25°",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-1.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Track Light",
+    "model": "SL CR TR 1110",
+    "description": "The SL CR TR 1110 is a 10W round track light using high-quality USA CREE LEDs. It delivers bright and uniform illumination while offering multiple CCT options. Designed with a premium Rose Gold/Gold/Dark Chrome body, it is suitable for wall or track base installation, combining aesthetics and functionality for modern interiors.",
+    "details": {
+      "Product Details": "A 10W round track light with USA CREE LED technology, providing consistent, energy-efficient lighting with multiple color temperature options.",
+      "Premium Construction": "Available in Rose Gold, Gold, and Dark Chrome finishes, offering both durability and elegant design.",
+      "Lighting Performance": "High CRI ensures accurate and vibrant color rendering, with CCT options of 3K/4K/6K for flexible lighting setups.",
+      "Installation": "Supports wall or track base mounting, allowing versatility in positioning and direction of light.",
+      "Applications": "Ideal for accent lighting in galleries, retail stores, boutique spaces, and modern residential interiors."
+    },
+    "specifications": {
+      "Model Number": "SL CR TR 1110",
+      "Wattage": "10W",
+      "LED": "USA CREE",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "Rose Gold/Gold/Dark Chrome",
+      "CCT": "3K/4K/6K",
+      "Mounting Option": "Wall/Track Base",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-2.jpg"]
+  },
+  {
+    "id": 3,
+    "title": "Track Light",
+    "model": "SL TR 1010",
+    "description": "The SL TR 1010 is a 10W round track light powered by BridgeLux LEDs. It delivers bright, efficient illumination with excellent color rendering, making it ideal for modern residential and commercial interiors. Its durable White/Black body and compact design provide versatility and style, and it also supports wall base installation.",
+    "details": {
+      "Product Details": "A 10W round track light with BridgeLux LEDs for consistent, energy-efficient, and bright lighting.",
+      "Premium Construction": "White/Black body finish offers durability and a sleek appearance for contemporary interiors.",
+      "Lighting Performance": "High CRI ensures accurate, vibrant colors with CCT options of 3K/4K/6K.",
+      "Installation": "Compact size (64 L x 118 W x 144 H mm) allows easy mounting on tracks or walls.",
+      "Applications": "Perfect for accent lighting, galleries, offices, retail spaces, and modern home interiors."
+    },
+    "specifications": {
+      "Model Number": "SL TR 1010",
+      "Wattage": "10W",
+      "LED": "BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "64 L x 118 W x 144 H mm",
+      "Mounting Option": "Track/Wall Base",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-3.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "Track Light",
+    "model": "SL TR 2020",
+    "description": "The SL TR 2020 is a 20W round track light featuring BridgeLux LEDs. It provides powerful, uniform illumination suitable for medium to large spaces. Its White/Black body ensures durability, while the adjustable installation options allow it to be used on track or wall bases, combining efficiency with aesthetic appeal.",
+    "details": {
+      "Product Details": "A 20W round track light using BridgeLux LEDs for bright, stable, and energy-efficient illumination.",
+      "Premium Construction": "Durable White/Black body finish designed for long-lasting use in modern interiors.",
+      "Lighting Performance": "Excellent CRI and CCT options (3K/4K/6K) provide vibrant and natural color rendering.",
+      "Installation": "Size 79 L x 138 W x 162 H mm allows easy mounting on tracks or walls.",
+      "Applications": "Ideal for offices, retail spaces, galleries, and living areas requiring high-quality accent lighting."
+    },
+    "specifications": {
+      "Model Number": "SL TR 2020",
+      "Wattage": "20W",
+      "LED": "BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "79 L x 138 W x 162 H mm",
+      "Mounting Option": "Track/Wall Base",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-4.jpg"]
+  },
+  {
+    "id": 5,
+    "title": "Track Light",
+    "model": "SL TR 3030",
+    "description": "The SL TR 3030 is a 30W round track light with high-performance BridgeLux LEDs, designed for large spaces requiring bright, focused illumination. Its durable White/Black body and adjustable mounting options make it suitable for track or wall base installation. With excellent CRI and multiple CCT options, it ensures professional-grade lighting for commercial and residential spaces.",
+    "details": {
+      "Product Details": "A 30W round track light featuring BridgeLux LEDs for consistent, high-intensity, energy-efficient lighting.",
+      "Premium Construction": "Robust White/Black body finish ensures durability while maintaining a modern aesthetic.",
+      "Lighting Performance": "High CRI and CCT options (3K/4K/6K) deliver accurate, vibrant lighting for various settings.",
+      "Installation": "Size 88 L x 158 W x 172 H mm allows easy track or wall mounting.",
+      "Applications": "Perfect for galleries, retail stores, offices, and large living spaces requiring premium-quality accent or task lighting."
+    },
+    "specifications": {
+      "Model Number": "SL TR 3030",
+      "Wattage": "30W",
+      "LED": "BridgeLux",
+      "Input Voltage": "185V-240V",
+      "Shape": "Round",
+      "Body Color": "WH/BK",
+      "CCT": "3K/4K/6K",
+      "Size": "88 L x 158 W x 172 H mm",
+      "Mounting Option": "Track/Wall Base",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/track-5.jpg"]
+  },
+  {
+    "id": 6,
+    "title": "GU10 Track/Wall Spot Light",
+    "model": "SL TR GU 10",
+    "description": "The SL TR GU 10 is a round track spot light compatible with GU10 bulbs, designed for both track and wall mounting. With its Rose Gold/Gold body, it combines elegance with functional lighting. Ideal for accent or task lighting, it provides focused illumination for retail, galleries, or residential spaces.",
+    "details": {
+      "Product Details": "A round track spot light designed for GU10 bulbs, delivering bright, directional lighting for accent or task use.",
+      "Premium Construction": "Rose Gold/Gold body finish ensures both aesthetic appeal and long-lasting durability.",
+      "Lighting Performance": "Provides focused light suitable for highlighting displays, artwork, or specific areas in a room.",
+      "Installation": "Compact size (60 x 110 mm) allows easy mounting on tracks or walls, with adjustable positioning.",
+      "Applications": "Perfect for retail stores, galleries, showrooms, offices, and residential spaces where precise lighting is needed."
+    },
+    "specifications": {
+      "Model Number": "SL TR GU 10",
+      "Shape": "Round",
+      "Body Color": "Rose Gold/Gold",
+      "Type": "GU10",
+      "Size": "60 x 110 mm",
+      "Mounting Option": "Track/Wall",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/gu-1.jpg"]
+  },
+  {
+    "id": 7,
+    "title": "GU10 Track/Wall Spot Light",
+    "model": "SL WL GU 10",
+    "description": "The SL WL GU 10 is a round wall-mounted spot light designed for GU10 bulbs. Its Rose Gold/Gold body adds a touch of elegance to any interior while providing directional lighting. Suitable for accent or task lighting, this fixture is perfect for residential and commercial applications requiring precise illumination.",
+    "details": {
+      "Product Details": "A round wall spot light compatible with GU10 bulbs, providing efficient and focused lighting.",
+      "Premium Construction": "Elegant Rose Gold/Gold finish with durable body ensures long-lasting performance and style.",
+      "Lighting Performance": "Offers focused illumination for specific areas, perfect for highlighting objects, artworks, or displays.",
+      "Installation": "Compact size of 60 x 110 mm allows easy mounting and positioning on walls.",
+      "Applications": "Ideal for galleries, boutiques, showrooms, offices, and modern residential interiors needing accent lighting."
+    },
+    "specifications": {
+      "Model Number": "SL WL GU 10",
+      "Shape": "Round",
+      "Body Color": "Rose Gold/Gold",
+      "Type": "GU10",
+      "Size": "60 x 110 mm",
+      "Mounting Option": "Wall",
+      "Warranty": "2 Years"
+    },
+    "images": ["assets/img/track/gu-2.jpg"]
+  }
+
+
+
+
+
+
+
+
+
+
+]

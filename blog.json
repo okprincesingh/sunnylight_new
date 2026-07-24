@@ -1,0 +1,153 @@
+[
+    {
+      "id": "1",
+      "title": "10 Creative Ideas for Indoor LED Lighting",
+      "date": "August 19, 2025",
+      "readTime": "9 min read",
+      "bannerImg": "assets/img/blog-img/download.jpg",
+      "description": "Discover modern ways to transform your living space using stylish and energy-efficient LED lights",
+      "content": [
+        {
+          "heading": "1. LED Cove Lighting for Ceilings",
+          "text": "Install LED strips in ceiling coves to create a soft, indirect glow. This adds depth and a luxurious feel to your living or bedroom spaces."
+        },
+        {
+          "heading": "2. Under-Cabinet Kitchen Lighting",
+          "text": "Brighten up your kitchen counters with hidden LED strips under cabinets. They provide perfect task lighting while enhancing your modern kitchen design."
+        }
+      ]
+    },
+    {
+        "id": "2",
+        "title": "Smart LED Lighting Trends in 2025",
+        "date": "August 15, 2025",
+        "readTime": "7 min read",
+        "bannerImg": "assets/img/blog-smart-light.png",
+        "description": "Explore how smart LED systems are changing the way we light our homes and offices.",
+        "content": [
+            {
+                "heading": "1. Voice Control for Lighting",
+                "text": "Smart lights can be controlled with voice assistants like Alexa, Google Home, or Siri, allowing hands-free operation and convenience."
+            },
+            {
+                "heading": "2. Customizable Scenes",
+                "text": "Set up different lighting scenes for morning, work, relaxation, or entertainment. Smart systems let you switch moods with just a tap or command."
+            },
+            {
+                "heading": "3. Energy Efficiency",
+                "text": "Automated schedules and dimming features help save energy and lower electricity bills while ensuring the right light intensity at all times."
+            },
+            {
+                "heading": "4. Integration with Home Automation",
+                "text": "Smart LED lights can sync with home sensors, thermostats, and security systems to create a fully automated environment."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Outdoor LED Lighting Ideas for Gardens & Pathways",
+        "date": "August 11, 2025",
+        "readTime": "6 min read",
+        "bannerImg": "assets/img/garden-light.png",
+        "description": "Make your outdoor spaces safer and more beautiful with the right LED lights and designs.",
+        "content": [
+            {
+                "heading": "1. Pathway Lighting",
+                "text": "Use low-level LEDs to illuminate garden paths, walkways, and driveways. They improve safety and create a welcoming ambiance."
+            },
+            {
+                "heading": "2. Accent Lighting for Plants",
+                "text": "Highlight trees, bushes, or flower beds with spotlights to make your garden visually appealing during nighttime."
+            },
+            {
+                "heading": "3. Decorative Fixtures",
+                "text": "Add lanterns, string lights, or solar-powered LED decorations to enhance the charm of patios and garden corners."
+            },
+            {
+                "heading": "4. Motion Sensors",
+                "text": "Install LED lights with motion sensors for added security and energy efficiency."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Choosing the Right LED Lights for Your Home",
+        "date": "July 29, 2025",
+        "readTime": "8 min read",
+        "bannerImg": "assets/img/blog-img.png",
+        "description": "A complete guide to selecting the perfect LED lighting solutions for every room in your house.",
+        "content": [
+            {
+                "heading": "1. Room-by-Room Analysis",
+                "text": "Consider the purpose of each room. Living rooms need ambient lighting, kitchens need bright task lights, and bedrooms need warm, relaxing lights."
+            },
+            {
+                "heading": "2. Color Temperature",
+                "text": "Choose LEDs with appropriate color temperatures (2700K-6500K) to set the right mood for each space."
+            },
+            {
+                "heading": "3. Lumens and Brightness",
+                "text": "Check the lumen rating of lights to ensure they provide adequate brightness for the intended space."
+            },
+            {
+                "heading": "4. Design & Aesthetics",
+                "text": "Pick LED fixtures that match your home’s interior design for a cohesive and stylish look."
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Energy Saving with LED: Myths & Facts",
+        "date": "June 19, 2025",
+        "readTime": "5 min read",
+        "bannerImg": "assets/img/Screenshot 2025-08-19 164943.png",
+        "description": "Clear the confusion about LED efficiency and learn how much you can really save on energy bills.",
+        "content": [
+            {
+                "heading": "1. Myth: LEDs Use More Energy to Start",
+                "text": "Unlike traditional bulbs, LEDs do not consume extra energy at startup. They reach full brightness instantly and remain energy-efficient."
+            },
+            {
+                "heading": "2. Fact: Long Lifespan Reduces Replacement Costs",
+                "text": "LEDs can last up to 25,000–50,000 hours, significantly reducing the frequency and cost of replacements."
+            },
+            {
+                "heading": "3. Myth: All LEDs Are Equal",
+                "text": "The efficiency and quality of LEDs vary by brand and model. Choose certified products to maximize energy savings."
+            },
+            {
+                "heading": "4. Fact: Dimmer Compatibility Saves Even More",
+                "text": "Using dimmable LEDs with compatible dimmers can reduce energy usage and create the desired ambiance."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "How to Maintain Your LED Lights for Longer Life",
+        "date": "May 19, 2025",
+        "readTime": "6 min read",
+        "bannerImg": "assets/img/blog-img3.png",
+        "description": "Simple tips and tricks to keep your LED lights shining bright for years to come.",
+        "content": [
+            {
+                "heading": "1. Keep LEDs Clean",
+                "text": "Dust and dirt reduce LED efficiency. Clean your fixtures regularly with a soft cloth to maintain brightness."
+            },
+            {
+                "heading": "2. Avoid Overheating",
+                "text": "Ensure proper ventilation around LED fixtures to prevent overheating and extend lifespan."
+            },
+            {
+                "heading": "3. Use Proper Voltage",
+                "text": "Always operate LEDs at the recommended voltage to avoid premature failure."
+            },
+            {
+                "heading": "4. Handle with Care",
+                "text": "Avoid rough handling during installation or maintenance to prevent damage to delicate components."
+            }
+        ]
+    }
+
+
+  ]
+
