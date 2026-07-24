@@ -731,6 +731,15 @@
   }
 }
 
+/* Mobile & Tablet (≤992px) Fix for iOS WebKit */
+@media (max-width: 992px) {
+  .main-image-container,
+  .details-section {
+    position: relative !important;
+    top: 0 !important;
+  }
+}
+
 /* Mobile (≤576px) */
 @media (max-width: 576px) {
     
@@ -749,7 +758,8 @@
   .main-image-container {
     width: 100%;
     order: 1;
-    top: 20px;
+    position: relative;
+    top: 0;
   }
 
   .thumbnail-wrapper {
