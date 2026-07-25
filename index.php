@@ -1150,8 +1150,8 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         <!-- Navigation arrows -->
         <div class="arrows">
-          <div class="left-arrow"><span><i class="bi bi-chevron-right"></i></span></div>
-          <div class="right-arrow"><span><i class="bi bi-chevron-left"></i></span></div>
+          <div class="left-arrow"><span><i class="bi bi-chevron-left"></i></span></div>
+          <div class="right-arrow"><span><i class="bi bi-chevron-right"></i></span></div>
         </div>
       </div>
     </div>
@@ -1631,8 +1631,8 @@ Driven by passion and purpose, we continue to shape the way people experience li
         </div>
         <!-- Navigation arrows -->
         <div class="arrows">
-          <div class="left-arrow"><span><i class="bi bi-chevron-right"></i></span></div>
-          <div class="right-arrow"><span><i class="bi bi-chevron-left"></i></span></div>
+          <div class="left-arrow"><span><i class="bi bi-chevron-left"></i></span></div>
+          <div class="right-arrow"><span><i class="bi bi-chevron-right"></i></span></div>
         </div>
       </div>
     </div>

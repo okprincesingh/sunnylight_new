@@ -1162,6 +1162,36 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="product-enhancements">
                     <h3>Control & Finish Options</h3>
 
+                    <?php 
+                    $recommendedOnOff = null;
+                    $remainingOtherVersions = [];
+                    foreach ($otherVersions as $option) {
+                        if (strcasecmp($option['name'] ?? '', 'ON/OFF') === 0) {
+                            $recommendedOnOff = $option;
+                        } else {
+                            $remainingOtherVersions[] = $option;
+                        }
+                    }
+                    ?>
+
+                    <?php if($recommendedOnOff): ?>
+                    <div class="enhancement-card reflector-card">
+                        <div class="enhancement-heading-row">
+                            <h4>Recommended ON/OFF</h4>
+                        </div>
+                        <div class="reflector-options product-option-grid">
+                            <div class="reflector-option">
+                                <?php if(!empty($recommendedOnOff['image'])): ?>
+                                <div class="reflector-image-wrap">
+                                    <img src="<?php echo htmlspecialchars($recommendedOnOff['image']); ?>" alt="ON/OFF" class="reflector-image">
+                                </div>
+                                <?php endif; ?>
+                                <span class="reflector-label option-name">ON/OFF</span>
+                            </div>
+                        </div>
+                    </div>
+                    <?php endif; ?>
+
                     <?php if($smartControls): ?>
                     <div class="enhancement-card remote-card">
                         <?php if(!empty($smartControls['image'])): ?>
@@ -1190,13 +1220,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <?php endif; ?>
 
-                    <?php if(!empty($otherVersions)): ?>
+                    <?php if(!empty($remainingOtherVersions)): ?>
                     <div class="enhancement-card reflector-card">
                         <div class="enhancement-heading-row">
                             <h4>Other Versions</h4>
                         </div>
                         <div class="reflector-options product-option-grid">
-                            <?php foreach($otherVersions as $option): ?>
+                            <?php foreach($remainingOtherVersions as $option): ?>
                             <?php $optionName = $option['name'] ?? $option['label'] ?? $option['code'] ?? 'Other Version'; ?>
                             <div class="reflector-option">
                                 <?php if(!empty($option['image'])): ?>
