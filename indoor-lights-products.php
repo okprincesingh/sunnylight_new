@@ -1326,9 +1326,9 @@ document.addEventListener('DOMContentLoaded', function() {
                                 <div class="product-card" data-price="1500">
                                     <div class="product-image">
                                         <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
-                                            alt="Economic Anti Glare Tunable Cob Spot Light" class="default-image">
-                                        <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
-                                            alt="Economic Anti Glare Tunable Cob Spot Light USE" class="hover-image">
+                                            alt="Premium Deep Recessed Anti Glare COB Downlight" class="default-image">
+                                        <img src="assets/img/Indoor-light-img/anti-glare-light/1192_1.png"
+                                            alt="Premium Deep Recessed Anti Glare COB Downlight USE" class="hover-image">
 
                                     </div>
                                     <div class="product-info">
@@ -1342,9 +1342,9 @@ document.addEventListener('DOMContentLoaded', function() {
                                 <div class="product-card" data-price="700">
                                     <div class="product-image">
                                         <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
-                                            alt="Economic Anti Glare Tunable Cob Spot Light" class="default-image">
-                                        <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
-                                            alt="Economic Anti Glare Tunable Cob Spot Light USE" class="hover-image">
+                                            alt="Premium Deep Recessed Anti Glare COB Downlight" class="default-image">
+                                        <img src="assets/img/Indoor-light-img/anti-glare-light/1192_1.png"
+                                            alt="Premium Deep Recessed Anti Glare COB Downlight USE" class="hover-image">
                                     </div>
                                     <div class="product-info">
                                         <h3 class="product-name"> Premium Deep Recessed Anti Glare COB Downlights</h3>
@@ -1358,7 +1358,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="product-image">
                                         <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
                                             alt="Premium Deep Recessed Anti Glare COB Downlight" class="default-image">
-                                        <img src="assets/img/Indoor-light-img/anti-glare-light/SLMX1191.png"
+                                        <img src="assets/img/Indoor-light-img/anti-glare-light/1192_1.png"
                                             alt="Premium Deep Recessed Anti Glare COB Downlight USE" class="hover-image">
                                     </div>
                                     <div class="product-info">
